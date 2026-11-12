@@ -10,11 +10,4 @@ fontes se baseou. Este arquivo não entra na base de conhecimento.
 
 | arquivo | origem |
 |---|---|
-| geral/regulamento_biblioteca.pdf | escrito para o exemplo |
-| geral/perguntas_frequentes.md | escrito para o exemplo |
-| emprestimo/guia_do_emprestimo.md | escrito para o exemplo |
-| renovacao/como_renovar.md | escrito para o exemplo |
-| multa/penalidades_e_pendencias.md | escrito para o exemplo |
-| horario/horarios_2026.html | escrito para o exemplo (simula uma página salva do site) |
-| reserva_sala/salas_de_estudo.md | escrito para o exemplo |
-| acesso_bases/acesso_remoto.txt | escrito para o exemplo |
+| apoio_atletas/EDITAL (PROECE_RTR) n 30, de 04-03-2022.pdf | 
