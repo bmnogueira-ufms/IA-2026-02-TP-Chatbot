@@ -110,6 +110,10 @@ intencoes:
        - Possuir a Identidade Estudantil da UFMS (proaes.ufms.br/identidade); e
        - Ter instalado o aplicativo 'Sou UFMS': O aplicativo pode ser baixado na Google Play Store, para dispositivos Android, e na Apple Store, para iPhones e iPads com sistema iOS.
       Na hora de adquirir sua ficha, informe que você tem direito ao subsídio. Essa informação será verificada ao escanear o QR Code antes de servir sua refeição.
+  geral:
+    descricao: "Perguntas gerais sobre o RU, como: contatos, recursos disponíveis, localização, etc."
+    resposta: >
+      O Restaurante Universitário é um espaço onde é oferecida alimentação para a Comunidade Universitária. Para dúvidas gerais, entre em contato com o meio de comunicação oficial do RU: ru.proaes@ufms.br
 # Respostas dos nós que não são intenções. {assuntos} vira a lista de descrições
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
 respostas:

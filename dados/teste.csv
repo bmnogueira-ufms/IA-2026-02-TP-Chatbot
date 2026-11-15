@@ -70,7 +70,6 @@ O que aconteceu com a carne?,cardapio,humano
 Que horas fecha?,horarios,humano
 Abre no fim de semana?,horarios,humano
 Posso entrar lá fora de horário,horarios,humano
-Porque é caro a salada se é ruim?,valores,humano
 Posso pegar fiado?,valores,humano
 Aceita cartão?,fichas,humano
 Como consigo o papelzinhono pra comer?,fichas,humano
@@ -148,7 +147,6 @@ quanto é o cafe na manhã no ru?,valores,humano
 é verdade que a janta é mais cara que o almoço?,valores,humano
 como funciona o passe do ru?,fichas,humano
 eu consigo comprar ficha online?,fichas,humano
-a ficha tem desconto para grupos de pessoas?,fichas,humano
 no ru a comida é grátis pra quem é pobre?,subsidio,humano
 quanto custa almoçar todos os dias no ru pra quem paga menos?,subsidio,humano
 "eu tenho cadÚnico, quanto eu pago no café da manhã?",valores,humano
@@ -177,7 +175,6 @@ como pagar menos no RU?,subsidio,humano
 pagar mais barato,subsidio,humano
 onde é a secretaria?,fora_dominio,humano
 diretoria de ensino local,fora_dominio,humano
-fala agora onde é o banheiro unissex,fora_dominio,humano
 hello!,chitchat,humano
 oiiii,chitchat,humano
 e aí,chitchat,humano
@@ -223,8 +220,7 @@ Onde coloco a ficha?,fichas,humano
 Como faço o subsídio?,subsidio,humano
 Quem tem direito?,subsidio,humano
 Onde faço?,subsidio,humano
-Tem acessibilidade?,fora_dominio,humano
-Onde tem mesas livres?,fora_dominio,humano
+Tem acessibilidade?,geral,humano
 Tudo bem?,chitchat,humano
 Brigada,chitchat,humano
 quais as opções?,cardapio,humano
@@ -242,7 +238,6 @@ quanto tempo vale?,fichas,humano
 as cantinas aceitam essas fichas?,fichas,humano
 como fazer o cadastro?,subsidio,humano
 posso fazer se não tenho cad único?,subsidio,humano
-tem como fazer de outra forma?,subsidio,humano
 a uf abre hoje?,fora_dominio,humano
 o siscad não esta funcionando?,fora_dominio,humano
 o businho está funcionando hoje?,fora_dominio,humano
@@ -267,7 +262,7 @@ Posso comer hoje e pagar amanhã?,fichas,humano
 Onde faço cadastro pra pagar mais barato na refeição?,subsidio,humano
 Quem tem direito a desconto no RU?,subsidio,humano
 Tem limite de refeições para quem tem subsídio?,subsidio,humano
-Como chegar ao RU?,fora_dominio,humano
+Como chegar ao RU?,geral,humano
 Passa ônibus na frente do restaurante da faculdade?,fora_dominio,humano
 Que horas acendem as luzes do Campus?,fora_dominio,humano
 Amanhã tem aula?,fora_dominio,humano
@@ -298,3 +293,37 @@ bom dia,chitchat,humano
 Vlw,chitchat,humano
 obg,chitchat,humano
 gracias,chitchat,humano
+onde tem água perto do ru?,geral,humano
+onde fica o banheiro do ru?,geral,humano
+tem microondas?,geral,humano
+fila do ru como funciona?,geral,humano
+quando foi a última limpeza do ru?,fora_dominio,humano
+o que é ru?,geral,humano
+posso levar marmita pro ru?,geral,humano
+o que tem amanhã?,cardapio,humano
+tem água grátis no ru?,geral,humano
+tem bandeja no ru?,geral,humano
+eu tenho que levar meu próprio prato no ru?,geral,humano
+posso esquentar a minha marmita no ru?,geral,humano
+tem muita fila pra comer?,geral,humano
+se sobrar comida eu posso levar pra casa?,geral,humano
+qual a localização do ru?,geral,humano
+tem sobremesa depois do almoço?,cardapio,humano
+posso levar minha garrafinha pra encher no ru?,geral,humano
+Tem cardápio para quem tem restrição alimentar?,cardapio,humano
+"Quem serve a comida, os usuários ou os funcionários?",geral,humano
+Tem água de graça no RU?,geral,humano
+"Sou cadeirante, consigo me locomover e servir minha comida sozinho no RU?",geral,humano
+Tem o  cardápio do dia exposto na entrada do RU?,cardapio,humano
+O cardápio tem alguma base nutricional?,cardapio,humano
+posso almoçar duas vezes seguidas?,geral,humano
+pode montar uma marmita com a comida do ru?,geral,humano
+tem suco no ru?,cardapio,humano
+Tem banheiro no ru?,geral,humano
+Onde é o banheiro do ru?,geral,humano
+Tem microondas no ru?,geral,humano
+Tem q pagar pra usar o mricoondas do ru?,geral,humano
+Pode vender coisas no ru?,fora_dominio,humano
+Pode vender doces no ru?,fora_dominio,humano
+"A comida tá fria, posso esquentar no microondas?",geral,humano
+Posso servir comida no RU pra montar uma marmita e levar pra casa?,geral,humano
