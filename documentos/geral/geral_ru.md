@@ -51,7 +51,8 @@ Em casos de suspeita de intoxicação alimentar, acesse o link e preencha o form
 
 # **Tem banheiro e bebedouro?**
 
-O RU possui banheiros, além das áreas de pias extras para fazer a devida higienização das mãos. Há também um bebedouro para hidratação
+O RU possui banheiros, além das áreas de pias extras para fazer a devida higienização das mãos. Há também um bebedouro para hidratação acompanhado de copos descartáveis biodegradáveis que são de uso livre e gratuito.
+
 
 # **O que fazer depois de comer?** 
 
