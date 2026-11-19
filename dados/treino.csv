@@ -88,13 +88,13 @@ Meu intervalo é curto e preciso me planejar. Qual é o horário de funcionament
 O RU fecha para alguma pausa durante o dia ou fica aberto direto? Estou tentando calcular se dá tempo de ir entre as aulas.,horarios,llm
 "Estou chegando ao campus agora, mas não sei se ainda dá tempo de encontrar o RU aberto. Que horas ele fecha?",horarios,llm
 "Na semana de provas, os horários do RU mudam? Preciso saber se ele abre mais cedo ou fecha mais tarde.",horarios,llm
-Qual horário de funcionamento?,horarios,llm
-Até que horas funciona?,horarios,llm
+Qual horário de funcionamento do RU?,horarios,humano
+Até que horas funciona o restaurante?,horarios,humano
 O RU fecha quando?,horarios,llm
 Horário do almoço?,horarios,llm
 Horário do jantar?,horarios,llm
-Abre aos sábados?,horarios,llm
-Funciona aos domingos?,horarios,llm
+O restaurante abre aos sábados?,horarios,humano
+"Funciona aos domingos, o RU?",horarios,humano
 O RU fecha nos feriados?,horarios,llm
 "Olá, você poderia informar quanto custa cada refeição no RU para estudantes, servidores e visitantes?",valores,llm
 "Por gentileza, quais são os valores das refeições no RU para cada categoria de usuário, incluindo o preço subsidiado?",valores,llm
