@@ -1,10 +1,3 @@
-# =============================================================================
-#  CONFIGURAÇÃO DO GRUPO - preencha todos os campos marcados com TODO.
-#  Este arquivo é lido pelo código base, pelo notebook e pelo script de
-#  avaliação. Mantenha a estrutura (nomes das chaves) exatamente como está.
-#  Veja um exemplo completo em exemplos/biblioteca/grupo.yaml.
-# =============================================================================
-
 grupo:
   nome: "Corporação"
   integrantes:
@@ -69,7 +62,7 @@ roteamento:
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
 intencoes:
   cardapio:
-    descricao: "Perguntas a respeito do cardápio do dia/semana para almoço/jantar."
+    descricao: "Perguntas a respeito do cardápio do dia/semana para almoço/jantar"
     resposta: >
       - Café da Manhã: Inclui bebidas quentes (café, chá, leite ou bebida vegetal), pão (francês ou opções como bolos e tapioca), manteiga/creme vegetal, ovo mexido, fruta da estação, achocolatado e complementos variáveis (como queijos, iogurtes ou carnes).
       - Almoço e Jantar: Compostos por 3 tipos de saladas variadas, prato base (arroz e feijão servidos à vontade), guarnição, sobremesa (fruta ou doce em datas comemorativas) e prato principal, que oferece opção padrão (carnes) e opção vegetariana (à base de soja, leguminosas e vegetais).
@@ -78,14 +71,14 @@ intencoes:
 
       Como a programação de pratos não é fixa e muda diariamente, para conferir o cardápio atualizado da semana, acesse o site oficial: proaes.ufms.br/category/restaurante-universitario/.
   horarios:
-    descricao: "Perguntas a respeito dos horários de funcionamento do RU."
+    descricao: "Perguntas a respeito dos horários de funcionamento do RU"
     resposta: >
       Para café da manhã, o RU abre de segunda-feira a sábado, das 6h30 às 9h;
       Para almoço, de segunda-feira a sábado, das 10h30 às 14h; e
       Para jantar, de segunda-feira a sexta-feira, das 17h30 às 20h30.
       Em caso de dúvida sobre algum dia específico de funcionamento (como feriados e pontos facultativos), consulte o calendário acadêmico da UFMS - o funcionamento do RU atende a ele.
   valores:
-    descricao: "Perguntas a respeito dos preços das refeições no RU para cada categoria, inclusive o valor com subsídio."
+    descricao: "Perguntas a respeito dos preços das refeições no RU para cada categoria, inclusive o valor com subsídio"
     resposta: >
       Estudantes de graduação e pós-graduação em situação de vulnerabilidade econômica (CadÚnico, com até 1,5 salário mínimo):
         - Café da manhã: R$1,00
@@ -95,13 +88,13 @@ intencoes:
       Servidores e visitantes, para qualquer refeição:
         - Valor integral cobrado pela empresa licitada. O valor pode variar de acordo com o contrato vigente. Consulte o site do RU para confirmar (reggio.ufms.br/restaurante). 
   fichas:
-    descricao: "Perguntas a respeito de como funciona o processo de adquirir e usar fichas para poder servir as refeições no RU."
+    descricao: "Perguntas a respeito de como funciona o processo de adquirir e usar fichas para poder servir as refeições no RU"
     resposta: >
       Para ter acesso às refeições do RU, é necessário adquirir fichas. As fichas podem ser adquiridas diretamente na entrada do RU.
       Para realizar o pagamento, os métodos aceitos são: dinheiro, PIX, cartão de crédito ou débito.
       A disponibilidade de compra online depende da empresa licitada e do contrato vigente. A melhor forma de confirmar, é por meio dos contatos oficiais.
   subsidio:
-    descricao: "Perguntas a respeito de como funciona o acesso ao subsídio para comer no RU. Como pedir, quem tem direito, documentos exigidos, prazos."
+    descricao: "Perguntas a respeito de como funciona o acesso ao subsídio para comer no RU. Como pedir, quem tem direito, documentos exigidos"
     resposta: >
       Estudantes de graduação e pós-graduação em situação de vulnerabilidade econômica podem solicitar o subsídio para refeições no RU.
       Para isso, é necessário:
@@ -111,7 +104,7 @@ intencoes:
        - Ter instalado o aplicativo 'Sou UFMS': O aplicativo pode ser baixado na Google Play Store, para dispositivos Android, e na Apple Store, para iPhones e iPads com sistema iOS.
       Na hora de adquirir sua ficha, informe que você tem direito ao subsídio. Essa informação será verificada ao escanear o QR Code antes de servir sua refeição.
   geral:
-    descricao: "Perguntas gerais sobre o RU, como: contatos, recursos disponíveis, localização, etc."
+    descricao: "Perguntas gerais sobre o RU, como: contatos, recursos disponíveis, localização, etc"
     resposta: >
       O Restaurante Universitário é um espaço onde é oferecida alimentação para a Comunidade Universitária. Para dúvidas gerais, entre em contato com o meio de comunicação oficial do RU: ru.proaes@ufms.br
 # Respostas dos nós que não são intenções. {assuntos} vira a lista de descrições
