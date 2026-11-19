@@ -72,6 +72,9 @@ def main(argv=None) -> int:
     destino.mkdir(parents=True, exist_ok=True)
     for nome, parte, rotulo in (("massive_chitchat.csv", chit, "chitchat"),
                                 ("massive_fora_dominio.csv", fora, "fora_dominio")):
+        print("Rótulo atual:", rotulo, "| Linhas:", len(parte), "| Colunas:", parte.columns.tolist())
+        if "massive_intencao" not in parte.columns:
+            parte = parte.assign(massive_intencao=parte["label"])
         saida = parte.assign(intencao=rotulo, origem="massive")[["texto", "intencao", "origem", "massive_intencao"]]
         saida.to_csv(destino / nome, index=False)
         print(f"{destino / nome}: {len(saida)} frases")

@@ -861,7 +861,7 @@ Qual o valor da bolsa do LEDES?,fora_dominio,humano
 Qual o preço da impressão colorida na Impressão da UFMS?,fora_dominio,humano
 Que horas abre o Autocine?,fora_dominio,humano
 O bloco 6 tá fechado?,fora_dominio,humano
-Rui, onde fica a FAENG?,fora_dominio,humano
+"Rui, onde fica a FAENG?",fora_dominio,humano
 A biblioteca abre em ponto facultativo?,fora_dominio,humano
 Onde faço sugestões para a melhora da FACOM?,fora_dominio,humano
 Qual o contato do coordenador de curso de Engenharia de Software?,fora_dominio,humano
@@ -870,3 +870,192 @@ Qual o contato da reitoria?,fora_dominio,humano
 A reitoria abre aos domingos?,fora_dominio,humano
 Qual o valor do raioX na FAMEZ?,fora_dominio,humano
 A FAMEZ abre todos os dias?,fora_dominio,humano
+quais serão as temperaturas para a próxima semana,fora_dominio,massive
+qual a temperatura atual,fora_dominio,massive
+guarda chuva mais tarde,fora_dominio,massive
+quão quente está lá fora,fora_dominio,massive
+qual é o tempo no porto hoje,fora_dominio,massive
+está o tempo nublado,fora_dominio,massive
+é um dia chuvoso e tempestuoso,fora_dominio,massive
+abrir facebook messenger,fora_dominio,massive
+ver instagram,fora_dominio,massive
+quais são os destaques de hoje do facebook,fora_dominio,massive
+algo novo no snapchat,fora_dominio,massive
+diz-me qual é o melhor jogador de basquetebol desta semana,fora_dominio,massive
+como está o twitter,fora_dominio,massive
+postar no facebook,fora_dominio,massive
+em que ações tive prejuízos,fora_dominio,massive
+carlos está bem,fora_dominio,massive
+qual a cotação da apple,fora_dominio,massive
+qual é o preço atual da sonae,fora_dominio,massive
+nome da empresa na bolsa,fora_dominio,massive
+quero saber as ações da amazon,fora_dominio,massive
+preço atual do google por favor,fora_dominio,massive
+onde vive brad pitt,fora_dominio,massive
+qual a idade de margarida carpinteiro,fora_dominio,massive
+quem foi amália rodrigues,fora_dominio,massive
+fornecer referências válidas com informação para ajudar as pessoas a compreender o pensamento crítico e a dar crédito onde o crédito é devido em vez de perpetuar notícias falsas e factos alternativos,fora_dominio,massive
+qual foi o último filme que josé fidalgo estrelou,fora_dominio,massive
+qual é o rio mais longo da espanha,fora_dominio,massive
+o jogar de futebol com a melhor classificação de sempre,fora_dominio,massive
+quanto mede o pepe,fora_dominio,massive
+qual o maior rio na alemanha,fora_dominio,massive
+que venceu as eleições presidenciais este ano,fora_dominio,massive
+buscar detalhes sobre o presidente barack obama,fora_dominio,massive
+olá o que é um livro,fora_dominio,massive
+o que é infinidade,fora_dominio,massive
+o que são sapatos converse,fora_dominio,massive
+define a palavra romance,fora_dominio,massive
+descreva cobertor,fora_dominio,massive
+que significa estetoscópio,fora_dominio,massive
+o que é jogo de computador,fora_dominio,massive
+por favor define a palavra hipocrisia,fora_dominio,massive
+o que é imigrante,fora_dominio,massive
+como se parece a torre eiffel,fora_dominio,massive
+o que significa a palavra laranja,fora_dominio,massive
+gostaria de saber a descrição de um carro,fora_dominio,massive
+qual é a taxa de câmbio entre a libra e o dólar americano,fora_dominio,massive
+qual é a taxa de câmbio do euro e do dólar,fora_dominio,massive
+qual é a taxa de câmbio entre a libra esterlina e o dólar dos e. u. a.,fora_dominio,massive
+quanto é o euro em relação ao dólar canadiano,fora_dominio,massive
+quantos pesos posso receber por um dólar neste momento,fora_dominio,massive
+quantos ienes rende um dólar americano hoje,fora_dominio,massive
+um dólar equivale a quantas rúpias indianas,fora_dominio,massive
+quanto é um dólar em libras,fora_dominio,massive
+quero ouvir os hits de hoje,fora_dominio,massive
+põe a estação f. m. que passa músicas pop por favor,fora_dominio,massive
+sintoniza na noventa ponto seis f. m.,fora_dominio,massive
+liga na rádio comercial por favor,fora_dominio,massive
+quero o programa café da manhã da rádio na cozinha,fora_dominio,massive
+quero ouvir mega f. m. na sala de estar,fora_dominio,massive
+por favor muda a estação para a antena dois,fora_dominio,massive
+preciso de definir um alarme quantos alarmes tenho definidos,fora_dominio,massive
+apagar o alarme que eu defini,fora_dominio,massive
+depois toca em ok,fora_dominio,massive
+toca música da playlist,fora_dominio,massive
+encontra música jazz na minha playlist,fora_dominio,massive
+toca a minha canção favorita do ano passado,fora_dominio,massive
+tocar álbum de treino,fora_dominio,massive
+joga futebol comigo,fora_dominio,massive
+vamos jogar poker juntos,fora_dominio,massive
+joga comigo o jogo do galo,fora_dominio,massive
+que tal um jogo de xadrez,fora_dominio,massive
+por favor reproduza um resumo de pontos importantes,fora_dominio,massive
+vamos lançar o dado,fora_dominio,massive
+toque o milagre da manhã no livro audível,fora_dominio,massive
+voltar a ensaio sobre a cegueira,fora_dominio,massive
+começa lusíadas onde eu deixei,fora_dominio,massive
+contar-me algumas notícias de negócios,fora_dominio,massive
+iniciar notícias da c. n. n.,fora_dominio,massive
+quais são os tópicos mais populares no mundo,fora_dominio,massive
+qual a última notícia internacional,fora_dominio,massive
+quais as tendências hoje em tecnologia,fora_dominio,massive
+quais artigos novos estão no r. p. t. hoje,fora_dominio,massive
+remove o alarme para amanhã,fora_dominio,massive
+acorda-me às sete da manhã,fora_dominio,massive
+por favor baixa o volume,fora_dominio,massive
+remover tudo no calendário,fora_dominio,massive
+apagar os meus eventos agendados,fora_dominio,massive
+apagar todos os eventos do meu calendário,fora_dominio,massive
+limpar tudo no meu calendário,fora_dominio,massive
+apagar todo o meu calendário,fora_dominio,massive
+informação da joana,fora_dominio,massive
+como é que eu ligo para a sara,fora_dominio,massive
+alexa fornecer informações sobre o bruno a partir da minha lista de contactos,fora_dominio,massive
+enviar email à família com os detalhes da festa,fora_dominio,massive
+enviar um email para o meu supervisor,fora_dominio,massive
+enviar um email com teste no assunto e sem conteúdo,fora_dominio,massive
+envia um email ao meu tio sobre a metereologia atual,fora_dominio,massive
+preciso enviar um email para susana e mencionar,fora_dominio,massive
+quais são as notícias de última hora sobre a economia,fora_dominio,massive
+quais são as principais notícias do diário de notícias,fora_dominio,massive
+apaga a lista compromissos do bruno,fora_dominio,massive
+tamo junto cara!,chitchat,humano
+valeu demais ein,chitchat,humano
+"arrasou, vlw",chitchat,humano
+"divou muito, obg",chitchat,humano
+"obrigadaaa, ajudou demais",chitchat,humano
+"slc, ajudou demais, valeuu",chitchat,humano
+veleuu diva!,chitchat,humano
+valeu irmão,chitchat,humano
+arrasou demais,chitchat,humano
+mt obgg,chitchat,humano
+muito obrigadaa,chitchat,humano
+"muito obgg, arrasou",chitchat,humano
+valeu ein,chitchat,humano
+valeu demais,chitchat,humano
+tmj irmão,chitchat,humano
+"vlww, tmj",chitchat,humano
+"ent ta blz, vlww",chitchat,humano
+"então ta bom, obrigadaa",chitchat,humano
+"humm, ta bom",chitchat,humano
+"ta bom, obrigada",chitchat,humano
+"beleza, obrigado",chitchat,humano
+"blzz, valeu",chitchat,humano
+"mt bom rui, obg",chitchat,humano
+obgg dms ruii,chitchat,humano
+bom dms rui,chitchat,humano
+"arrasou rui, obg",chitchat,humano
+firmeza irmão,chitchat,humano
+"firmeza demais, valeu",chitchat,humano
+"então tabom, firmeza",chitchat,humano
+obrigadão,chitchat,humano
+obrigadao pela ajuda,chitchat,humano
+obrigadao pelas respostas,chitchat,humano
+obrigadao irmao,chitchat,humano
+entao ta joia,chitchat,humano
+joia,chitchat,humano
+"ta joia ent, vlw",chitchat,humano
+joia demais,chitchat,humano
+ta joia,chitchat,humano
+show,chitchat,humano
+show de bola cara,chitchat,humano
+show demais rui,chitchat,humano
+"show rui, obg",chitchat,humano
+valeu mesmo rui,chitchat,humano
+vlww msm cara,chitchat,humano
+vlww dms rui,chitchat,humano
+"está ótimo, muito obrigada!",chitchat,humano
+obrigada pelas respostas!,chitchat,humano
+obrigado pela ajuda,chitchat,humano
+obrigada por tirar essas duvidas,chitchat,humano
+"muito bom, obrigada",chitchat,humano
+"está ótimo, gratidão",chitchat,humano
+gratidão pelas respostas,chitchat,humano
+muito obrigada mesmo,chitchat,humano
+te agradeço pela ajuda,chitchat,humano
+grata por suas respostas,chitchat,humano
+"então ta bom, grato por suas respostas",chitchat,humano
+grato por sua resposta rui,chitchat,humano
+gratidao por suas respostas rui,chitchat,humano
+gratidao rui,chitchat,humano
+grata,chitchat,humano
+"oieee, como vc ta?",chitchat,humano
+noitee,chitchat,humano
+"diaa, td certo?",chitchat,humano
+"olaa, tudo bem?",chitchat,humano
+tudo certo irmao?,chitchat,humano
+oiii rui td certo?,chitchat,humano
+oi rui,chitchat,humano
+"ola rui, tudo bom?",chitchat,humano
+bom demais?,chitchat,humano
+bom dia rui,chitchat,humano
+boa noite cara,chitchat,humano
+boa tarde rui,chitchat,humano
+bom diaa rui,chitchat,humano
+boa tardee,chitchat,humano
+oiii ruiii,chitchat,humano
+olaa rui,chitchat,humano
+"opa,blz?",chitchat,humano
+"opa!",chitchat,humano
+fala aí,chitchat,humano
+salve,chitchat,humano
+eae rui,chitchat,humano
+falaa rui,chitchat,humano
+"Falaa camapeao, beleza?",chitchat,humano
+"Prazer rui, tudo bom?",chitchat,humano
+"Você ta bem cara?",chitchat,humano
+Oii bom demais?,chitchat,humano
+"eai cara, ta bem aí?",chitchat,humano
+eae meu mano?,chitchat,humano
+"rui, ce ta bem?",chitchat,humano
