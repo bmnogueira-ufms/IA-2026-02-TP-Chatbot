@@ -6,32 +6,49 @@
 > leva à **nota zero** no trabalho para todo o grupo.
 >
 > Este arquivo é o rascunho de trabalho da declaração: preencham **ao longo** do
-> projeto (não no último dia) e copiem a tabela para o artigo. Apaguem as linhas de
-> exemplo e todas as marcações TODO.
+> projeto (não no último dia) e copiem a tabela para o artigo. Apaguem esta nota e as
+> marcações **[CONFIRMAR]** depois de resolvê-las.
 
 ## 1. Ferramentas usadas
 
 | Ferramenta (nome e versão/modelo) | Como acessaram | Quem usou |
 |---|---|---|
-| _Exemplo: OpenRouter, modelo openai/gpt-6-luna_ | _chave do grupo, via código_ | _todos_ |
-| _Exemplo: ChatGPT (versão gratuita)_ | _navegador_ | _Fulana_ |
-| TODO | | |
+| OpenRouter, modelo openai/gpt-6-luna (sugerido pelo professor) | chave do grupo, via código (`gerar_dados_llm.py`) | todos |
+| Claude 5.5 (claude.ai) | aplicativo | Nayla |
+| Claude (versão gratuita) | navegador | Lara, Isabela e João |
+| Gemini 3.6 Flash (versão gratuita) | navegador (Chrome) | todos |
+| ChatGPT (versão gratuita) | navegador (Chrome) | todos |
 
 ## 2. Usos, um por linha
 
-| # | Etapa | O que a IA fez | Prompt (ou resumo + link para o registro) | O que o grupo fez com o resultado |
+| # | Etapa | O que a IA fez | Prompt (ou resumo) | O que o grupo fez com o resultado |
 |---|---|---|---|---|
-| 1 | _Dados de treino_ | _Gerou 412 frases para 6 intenções_ | _ver `dados/prompts_llm.md`_ | _Revisamos todas; 57 descartadas, 12 rótulos corrigidos_ |
-| 2 | _Chatbot_ | _Redige as respostas das intenções e do chitchat_ | _prompts em `chatbot/llm.py` + persona do `grupo.yaml`_ | _Ajustamos a persona 3 vezes após testes (seção X do artigo)_ |
-| 3 | _Código_ | _Sugeriu a função que plota a curva de validação_ | _"como plotar o resultado do GridSearchCV em função de C"_ | _Adaptamos nomes e eixos; entendemos e testamos_ |
-| 4 | _Escrita_ | _Revisou a gramática da Introdução_ | _"revise a gramática sem mudar o conteúdo: ..."_ | _Aceitamos parte das sugestões_ |
-| TODO | | | | |
+| 1 | Dados de treino | O GPT-6 Luna gerou frases de treino das intenções do domínio, com o script do professor. No treino final, 276 frases têm origem `llm` (Tabela 1 do artigo), somando as do GPT-6 Luna e as do ChatGPT (linha 14) | Script `gerar_dados_llm.py` do repositório; prompts em `dados/prompts_llm.md`; resposta em `dados/gerados_llm.csv` | Os integrantes revisaram todas as frases e descartaram 3 por fugirem do escopo do RU da UFMS; nenhuma foi editada. As frases também passaram pelo script de verificação do professor, e humanas e geradas ficaram identificadas na coluna `origem` |
+| 2 | Análise de dados | O Claude listou os negativos difíceis (`negativos_dificeis.csv`, 85 frases) e analisou os erros do classificador: 91% dos erros vinham de frases humanas, e a maior parte era fora_dominio classificado como dominio | Resumo: "liste os negativos difíceis do conjunto e analise os erros" | O grupo revisou a lista e a usou para testar o modelo sem esses exemplos (54 erros, contra 95). Houve discordância sobre parte da análise: os negativos difíceis foram incluídos de propósito, a pedido do professor, e a validação cruzada não deveria sofrer tanto com gírias |
+| 3 | Código (git) | O Gemini orientou sobre conflitos de git e commits | Resumo: dúvidas sobre commit e conflito de push | Resolvemos o conflito (pull antes do push) e corrigimos o CSV (frases com vírgula precisam de aspas) |
+| 4 | Melhoria do modelo | O Claude sugeriu melhorias para o classificador. A sugestão mais recente foi que a proporção de dados já estava adequada e que o problema podia ser a qualidade dos dados | Resumo: "o que podemos melhorar no classificador", com o contexto do projeto | Testamos a hipótese com embeddings: o resultado não melhorou frente ao TF-IDF de caracteres. Seguimos com o TF-IDF de caracteres |
+| 5 | Código | O Claude escreveu uma célula de notebook isolada que compara TF-IDF de palavras, TF-IDF de caracteres e embeddings no classificador de escopo, em um gráfico de barras de F1 macro (validação cruzada de 5 folds). A célula não altera o pipeline nem salva resultados | "Gere um código isolado para comparar TF-IDF e embedding nesse gráfico, sem salvar o resultado" e "queremos os 3: os 2 de TF-IDF e o embedding" | Rodamos a célula no notebook. A primeira versão saiu com 2 representações; pedimos a correção para 3 e para mudar a legenda. A célula é exploratória e não entra no pipeline final |
+| 6 | Código | O Claude escreveu a célula equivalente para o classificador de tema (intenção), treinando só com as frases do domínio | "Gere também um código isolado para fazer esse gráfico, mas agora para o classificador do tema" | Adaptamos nomes de colunas ao nosso notebook e usamos o gráfico apenas como experimento exploratório |
+| 7 | Suporte técnico | O Claude diagnosticou o erro `ImportError: EmbeddingsSentenca precisa do pacote sentence-transformers` e indicou instalar `requirements-extra.txt` no venv, reiniciar o kernel e conferir o `sys.executable` | Print do erro com a pergunta "qual o problema?" | Instalamos o pacote no venv do projeto, reiniciamos o kernel e a célula rodou |
+| 8 | Decisão sobre figuras | O Claude opinou sobre qual figura salvar para o artigo (Embeddings ou TF-IDF de caracteres) e recomendou mostrar a comparação das representações | "Acho que pode ser salvar o do Embedding, porque a gente vai acabar usando o TF-IDF de caracteres" | A decisão foi nossa: como só uma representação pode ser usada no trabalho, a comparação ficou em uma célula isolada, sem salvar resultados |
+| 9 | Código / análise de dados | O Claude escreveu o script `analise_exploratoria.py`: tamanho das mensagens por classe, palavras mais frequentes por intenção, exemplos de negativos difíceis (verificação simples, por similaridade) e diferenças entre frases humanas e de LLM, com gráficos e um `resumo.md` | "Análise exploratória: tamanho das mensagens por classe, palavras mais frequentes por intenção, exemplos de negativos difíceis, diferenças entre frases humanas e de LLM. Criar script que faça isso" | Colamos o script no notebook, deu erro de argumento de linha de comando (`csv` obrigatório) e corrigimos passando o caminho do CSV. Os negativos difíceis listados pelo script são só um indício: a seleção foi mista, com uma triagem prévia feita por IA a partir da análise e uma segunda seleção, com filtro humano, sobre essas frases |
+| 10 | Vídeo e apresentação | O Claude escreveu o roteiro do vídeo seguindo os tempos do enunciado (com sugestão de divisão de papéis) e um roteiro detalhado da abertura (0:00 a 2:30) com 6 slides de apoio e notas do orador. Também será usado para produzir os demais slides da apresentação a partir do texto final do artigo | "Crie um roteiro de apresentação e sugira a divisão de papéis considerando que os 2 primeiros tópicos já são de um integrante", "crie um roteiro de vídeo e um slide (só a parte inicial), vai até 2:30" e, para o restante, resumo: "produza os slides da apresentação completa a partir do artigo" | O grupo usou principalmente a sugestão de organização da apresentação (ordem dos tópicos, tempos e divisão de papéis). Os números do slide de dados (1.077, 701, 100, 276) vêm da Tabela 1 do artigo e foram conferidos contra o CSV final |
+| 11 | Documentação | O Claude preencheu esta declaração a partir do histórico do grupo e dos usos feitos | "Preencha tudo o que você nos ajudou a fazer seguindo o modelo", "finalize e me envie o relatório de uso de IA" e, depois, as anotações de uso de IA do grupo para incorporar | O grupo conferiu cada linha, resolveu as marcações e apagou as notas de preenchimento antes de copiar para o artigo |
+| 12 | Dados para as respostas | O Gemini 3.6 Flash resumiu o texto oficial sobre o cardápio do RU em uma resposta padrão de 5 a 8 linhas, que deixa claro que o cardápio muda e indica o site oficial (proaes.ufms.br/category/restaurante-universitario/) | "Me ajude a resumir as informações presentes no texto que vou te mandar, mantendo apenas os aspectos mais essenciais. Preciso de uma resposta padrão de no máximo 5~8 linhas que reúna a base dos cardápios oferecidos pelo RU, mas que deixe claro que não há nada fixo e que, para saber o cardápio da semana, o usuário deve consultar o site oficial" + trecho do documento oficial (omitido aqui) | Integrantes revisaram a resposta. Edição: trocaram "nutricionista responsável no local" por "pelo local", porque a primeira forma sugeria que o nutricionista fica no RU para tirar dúvidas |
+| 13 | Dados de treino | O Gemini formatou em CSV as frases escritas pelos integrantes, sem alterá-las | "Formate as seguintes frases para mim, sem alterar NADA, conforme o modelo a seguir (textos com vírgula entre aspas): texto,intencao,origem. Todas foram escritas por humanos:" + [algumas das frases escritas pelos integrantes, separadas por categorias; não reproduzidas aqui] | Releram todas as frases para garantir coerência e corrigiram os nomes de intenção atribuídos pelo Gemini (`fora_de_dominio` para `fora_dominio`, `precos` para `valores`). Os nomes das categorias do prompt tinham sido alterados depois, por isso a edição, feita com a ferramenta de substituição de texto do editor |
+| 14 | Dados de treino | O ChatGPT (versão gratuita) gerou frases de treino para a intenção "geral" (origem `llm`), adicionada depois das demais | Basicamente o mesmo prompt dos demais dados gerados (`dados/prompts_llm.md`), com pequenas modificações para explicar a intenção e limitar os temas que as perguntas não poderiam abordar | Leram, validaram e selecionaram as frases mais coerentes |
+| 15 | Escrita do artigo | O Claude (versão gratuita) traduziu o resumo para inglês (abstract) e ajudou na escrita do resumo e da introdução | "Traduza esse resumo de artigo (abstract) para inglês" + "resumo do artigo em português" | Leram e validaram a resposta |
+| 16 | Escrita do artigo | O Claude (versão gratuita) e o Gemini (versão gratuita) ajudaram na escrita formal do artigo | Os prompts variaram. Em geral: "Me ajude a deixar esse texto em formato para um artigo/relatório acadêmico, com formatação pronta para copiar e colar no LaTeX:" + texto informal e desorganizado escrito pelos integrantes | Leram e validaram cada resposta e melhoraram os pontos que julgaram necessário |
 
 ## 3. O que NÃO foi feito com IA
 
-TODO: digam explicitamente o que foi feito sem IA (ex.: definição das intenções,
-frases do teste, análise dos erros, conclusões).
+- Definição do tema (RU), do nome "Rui" e das intenções do chatbot (cardápio, horários, valores, fichas, subsídio e geral): discutidas e decididas pelo grupo.
+- Os documentos da base de conhecimento. Todos foram escritos por integrantes do grupo, a partir de normas e informações oficiais. Por exemplo, o documento "Fichas" veio do que já sabiam sobre o RU.
+- As frases humanas de treino e de teste: escritas por nós (membros do grupo) e coletadas por formulários, com 13 respondentes entre familiares, amigos e colegas. As frases do formulário de teste foram escritas por pessoas de fora do grupo. A contagem de frases humanas foi feita com Ctrl+F pelo texto `,intenção,humano`.
+- Os 50 negativos difíceis ligados à UFMS (escritos por um integrante) e as frases da intenção "geral" escritas por nós.
+- A decisão de remover os negativos difíceis exagerados e de acrescentar frases da base MASSIVE.
+- A interpretação final dos erros e as conclusões do artigo, feitas pelo grupo a partir das análises iniciais da linha 2.
 
 ## 4. Reflexão (2 a 4 frases)
 
-TODO: onde a IA ajudou, onde atrapalhou ou errou, e como vocês verificaram o que ela produziu.
+A IA ajudou principalmente com a geração de frases de treino, com a redação do artigo e com análises rápidas dos erros. Ela atrapalhou quando ignorou o contexto do trabalho: apontou como problema os negativos difíceis que o professor pediu de propósito. Algumas sugestões usaram técnicas que não entendemos totalmente, então só aproveitamos o que conseguimos explicar. Verificamos o que ela produziu rodando os experimentos com validação cruzada, comparando contagens de erros entre versões dos dados e conferindo as frases com o script de verificação do professor.

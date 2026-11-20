@@ -2,6 +2,8 @@
 
 Coloque aqui o PDF final como **`relatorio.pdf`** (e, se quiser, os fontes LaTeX).
 
+Link no LaTeX: https://latex.ufms.br/read/kswtxfrmnxck#adc73c
+
 * Formato: modelo de artigos da SBC
   (<https://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros>),
   também disponível no Overleaf ("SBC Conferences Template").

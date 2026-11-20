@@ -1,1 +1,1078 @@
 texto,intencao,origem
+Você poderia me informar qual será o cardápio do almoço de hoje no RU?,cardapio,llm
+"Gostaria de saber quais pratos serão servidos no jantar de hoje, por favor.",cardapio,llm
+Há algum lugar onde eu possa consultar o cardápio completo desta semana?,cardapio,llm
+Você sabe dizer qual será a opção vegetariana do almoço de amanhã?,cardapio,llm
+Poderia me informar quais acompanhamentos estarão disponíveis no jantar de hoje?,cardapio,llm
+O cardápio do almoço de sexta-feira já foi divulgado?,cardapio,llm
+Quais sobremesas estão previstas para o almoço de hoje?,cardapio,llm
+Você poderia me dizer se o prato principal do jantar de amanhã será à base de carne ou de frango?,cardapio,llm
+Onde posso conferir o cardápio do almoço e do jantar da próxima semana?,cardapio,llm
+Haverá alguma opção vegana no cardápio do RU esta semana?,cardapio,llm
+O que vai ter de almoço hoje no RU?,cardapio,llm
+Qual é o cardápio do jantar de hoje?,cardapio,llm
+Vc sabe o que vai ter de mistura no almoço?,cardapio,llm
+Tem como ver o cardápio da semana?,cardapio,llm
+O almoço de amanhã já saiu no cardápio?,cardapio,llm
+Qual vai ser a opção vegetariana hoje?,cardapio,llm
+O que servem de acompanhamento no jantar?,cardapio,llm
+Hoje tem alguma opção sem carne?,cardapio,llm
+"Me manda o cardápio de sexta, por favor",cardapio,llm
+O que vai ter de sobremesa no almoço?,cardapio,llm
+qual vai ser o almoço hj no RU,cardapio,llm
+sabe dizer oq tem de janta hoje,cardapio,llm
+tem como ver o cardapio da semana,cardapio,llm
+o que vai ter de mistura no almoço de amanhã,cardapio,llm
+qual é o prato principal de hoje no jantar,cardapio,llm
+vai ter opção vegetariana no almoço essa semana,cardapio,llm
+consegue me falar as sobremesas do cardapio de hoje,cardapio,llm
+o cardapio do RU pra essa semana já saiu,cardapio,llm
+oq vai acompanhar o almoço de hoje,cardapio,llm
+tem peixe no menu do jantar de amanhã,cardapio,llm
+"Oi, Rui, tô saindo pra almoçar agora e preciso saber o que vai ter no cardápio de hoje.",cardapio,llm
+Você consegue me dizer o almoço de hoje? Estou com pouco tempo e queria ver se vale a pena levar algo de casa.,cardapio,llm
+Tô tentando me organizar pra semana: quais pratos estão previstos para o almoço nos próximos dias?,cardapio,llm
+"Socorro, tenho uma apresentação depois do almoço e queria saber se hoje vai ter uma opção mais leve no cardápio.",cardapio,llm
+"Rui, qual é o jantar de hoje? Preciso decidir rapidinho se levo alguma coisa pra comer.",cardapio,llm
+Você sabe se vai ter opção vegetariana no almoço de hoje? Estou tentando me planejar antes de sair da aula.,cardapio,llm
+"Tô com muita fome e queria conferir o cardápio do almoço de hoje, principalmente o prato principal e os acompanhamentos.",cardapio,llm
+Pode me passar o cardápio do jantar desta semana?,cardapio,humano
+Hoje tem alguma opção sem carne no jantar? Preciso saber logo porque não consigo conferir o cardápio em outro lugar.,cardapio,llm
+"Rui, estou com pressa: o que vai ser servido no almoço de amanhã?",cardapio,llm
+Qual o almoço hoje?,cardapio,llm
+Jantar de hoje?,cardapio,llm
+Cardápio desta semana?,cardapio,llm
+Almoço de amanhã?,cardapio,llm
+O que tem no jantar?,cardapio,llm
+Prato principal de hoje?,cardapio,llm
+Menu semanal do RU?,cardapio,llm
+Sobremesa do almoço?,cardapio,llm
+Opções para o jantar?,cardapio,llm
+Cardápio de sexta-feira?,cardapio,llm
+"Olá, Rui! Você poderia me informar quais são os horários de funcionamento do RU durante a semana?",horarios,llm
+"Por favor, gostaria de saber a que horas o restaurante universitário abre para o almoço.",horarios,llm
+Você sabe até que horas o RU fica aberto no período do jantar?,horarios,llm
+Poderia me dizer se o horário de funcionamento do RU é diferente aos sábados?,horarios,llm
+O RU funciona aos domingos ou permanece fechado?,horarios,llm
+Você poderia confirmar se o restaurante universitário abre nos feriados?,horarios,llm
+"Durante o recesso acadêmico, o RU mantém o mesmo horário de funcionamento?",horarios,llm
+"Por gentileza, qual é o horário de abertura do RU no período da manhã?",horarios,llm
+Gostaria de saber se o RU fecha entre o serviço de almoço e o de jantar.,horarios,llm
+"Em semanas de provas, o horário de funcionamento do restaurante universitário sofre alguma alteração?",horarios,llm
+Até que horas fica aberto o RU?,horarios,llm
+Qual é o horário de funcionamento do RU?,horarios,llm
+O RU abre aos sábados?,horarios,llm
+Que horas começa o almoço no RU?,horarios,llm
+Até que horas servem o jantar?,horarios,llm
+O RU fecha no intervalo entre almoço e jantar?,horarios,llm
+Sabe se o RU funciona no domingo?,horarios,llm
+O RU abre normalmente durante as férias?,horarios,llm
+Vc sabe que horas o RU fecha hoje?,horarios,llm
+que horas o RU abre de manhã,horarios,llm
+até que horas fica aberto o restaurante universitario,horarios,llm
+o RU funciona nos fins de semana,horarios,llm
+qual o horario de funcionamento do RU hoje,horarios,llm
+o restaurante fecha que horas no almoço,horarios,llm
+tem horario de funcionamento diferente nas ferias,horarios,llm
+que horas começa a servir no RU,horarios,llm
+o RU abre durante o feriado,horarios,llm
+qual é o horario do restaurante a noite,horarios,llm
+sabe se o RU fecha mais cedo na sexta-feira,horarios,llm
+"Oi, estou saindo agora para a universidade. Até que horas o RU fica aberto hoje?",horarios,llm
+Tenho aula até tarde e queria saber se o RU funciona à noite e qual é o horário de fechamento.,horarios,llm
+Estou no campus no sábado. O RU abre nos fins de semana? Preciso me organizar rapidinho.,horarios,llm
+Alguém sabe que horas o RU começa a funcionar de manhã? Chego bem cedo à universidade.,horarios,llm
+Estou preocupado porque talvez chegue perto da hora de fechar. Qual é o horário de funcionamento do RU hoje?,horarios,llm
+Amanhã é feriado na universidade; o RU abre normalmente ou tem horário diferente?,horarios,llm
+Meu intervalo é curto e preciso me planejar. Qual é o horário de funcionamento do RU no almoço?,horarios,llm
+O RU fecha para alguma pausa durante o dia ou fica aberto direto? Estou tentando calcular se dá tempo de ir entre as aulas.,horarios,llm
+"Estou chegando ao campus agora, mas não sei se ainda dá tempo de encontrar o RU aberto. Que horas ele fecha?",horarios,llm
+"Na semana de provas, os horários do RU mudam? Preciso saber se ele abre mais cedo ou fecha mais tarde.",horarios,llm
+Qual horário de funcionamento do RU?,horarios,humano
+Até que horas funciona o restaurante?,horarios,humano
+O RU fecha quando?,horarios,llm
+Horário do almoço?,horarios,llm
+Horário do jantar?,horarios,llm
+O restaurante abre aos sábados?,horarios,humano
+"Funciona aos domingos, o RU?",horarios,humano
+O RU fecha nos feriados?,horarios,llm
+"Olá, você poderia informar quanto custa cada refeição no RU para estudantes, servidores e visitantes?",valores,llm
+"Por gentileza, quais são os valores das refeições no RU para cada categoria de usuário, incluindo o preço subsidiado?",valores,llm
+"Quanto um estudante paga por uma refeição no RU com subsídio, e quais são os valores cobrados das demais categorias?",valores,llm
+Você poderia me dizer qual é o preço da refeição para estudantes sem subsídio e quanto ela custa com subsídio?,valores,llm
+"Gostaria de saber os valores atuais das refeições no RU para estudantes de graduação, estudantes de pós-graduação, servidores e visitantes.",valores,llm
+Poderia esclarecer quanto custa a refeição no RU para cada categoria e qual é o valor pago pelo estudante subsidiado?,valores,llm
+Qual é a diferença de preço entre a refeição subsidiada para estudantes e os valores cobrados de servidores e pessoas visitantes?,valores,llm
+"Por favor, informe o preço de cada refeição no RU para estudantes, servidores terceirizados e público externo, considerando também o valor com subsídio.",valores,llm
+Você saberia me dizer quanto custa a refeição para um estudante com subsídio e quais são os preços aplicados às outras categorias?,valores,llm
+"Quais são os valores cobrados por refeição no RU para cada perfil de usuário, incluindo o preço subsidiado para estudantes?",valores,llm
+Quanto custa o almoço no RU pra estudante?,valores,llm
+Qual o preço da refeição pra quem não tem subsídio?,valores,llm
+"E pra aluno com subsídio, quanto fica?",valores,llm
+"Me passa os valores do RU por categoria, por favor",valores,llm
+Quanto paga um servidor pra comer no RU?,valores,llm
+Tem diferença no valor da refeição pra aluno e visitante?,valores,llm
+"Queria saber quanto custa cada refeição, com e sem subsídio",valores,llm
+O valor subsidiado é quanto por refeição?,valores,llm
+Quem não é estudante paga quanto no RU?,valores,llm
+quanto custa o almoço no RU pra estudante de graduação,valores,llm
+qual o valor da refeição pra aluno de pós e pra graduando,valores,llm
+queria saber os preços do RU por categoria de estudante,valores,llm
+o preço do jantar é o mesmo pra todas as categorias,valores,llm
+quanto fica a refeição com subsidio para estudante,valores,llm
+qual é o valor sem subsidio e com subsidio no RU,valores,llm
+tem diferença no preço do almoço entre aluno e servidor,valores,llm
+quanto um estudante paga por refeição no restaurante universitario,valores,llm
+pode me dizer os valores das refeições pra cada categoria,valores,llm
+o valor subsidiado do almoço fica quanto pra quem tem subsidio,valores,llm
+"Tô sem muito dinheiro este mês, quanto fica cada refeição para estudante com subsídio e sem subsídio?",valores,llm
+"Preciso calcular meus gastos da semana: qual é o preço do almoço para estudantes, servidores e visitantes?",valores,llm
+Alguém sabe quanto custa a refeição no RU para aluno de graduação e para aluno de pós? Preciso conferir agora.,valores,llm
+Estou indo pro RU e queria saber o valor da refeição subsidiada e o preço normal para estudante.,valores,llm
+Quanto pagam os servidores e os estudantes nas refeições do RU? Tô com pressa pra me organizar.,valores,llm
+"Meu colega disse que o preço muda conforme a categoria, mas não sei os valores. Quanto custa para estudante, servidor e público externo?",valores,llm
+Preciso saber se o jantar custa o mesmo para todas as categorias e quanto fica com subsídio.,valores,llm
+"Tô fazendo as contas do mês: qual é o valor por refeição para aluno com subsídio, aluno sem subsídio e visitante?",valores,llm
+Você pode me dizer os preços atuais do RU por categoria? Preciso saber quanto separar para cada refeição.,valores,llm
+Estou quase saindo de casa e não sei quanto dinheiro levar. Qual é o preço para estudante com subsídio e para quem paga o valor integral?,valores,llm
+Preço para estudantes?,valores,llm
+Valor da refeição?,valores,llm
+Preço com subsídio?,valores,llm
+Valor para servidores?,valores,llm
+Preço para visitantes?,valores,llm
+Quanto paga aluno?,valores,llm
+Valores por categoria?,valores,llm
+Preço integral?,valores,llm
+Refeição subsidiada?,valores,llm
+Poderia me informar onde posso comprar as fichas para utilizar no restaurante universitário?,fichas,llm
+"Como faço para adquirir fichas para as refeições do RU, por favor?",fichas,llm
+É possível comprar as fichas pela internet ou preciso ir pessoalmente a algum local?,fichas,llm
+Quais formas de pagamento são aceitas na compra das fichas do RU?,fichas,llm
+Preciso apresentar algum documento ou carteirinha para comprar as fichas?,fichas,llm
+"Depois de comprar uma ficha, como devo apresentá-la para liberar minha refeição?",fichas,llm
+As fichas são físicas ou posso utilizá-las em formato digital pelo celular?,fichas,llm
+Posso comprar várias fichas de uma só vez para usar em dias diferentes?,fichas,llm
+"Se eu perder uma ficha que comprei, existe alguma forma de recuperá-la?",fichas,llm
+"Outra pessoa pode usar uma ficha comprada no meu nome, ou ela é de uso individual?",fichas,llm
+Onde eu compro as fichas pra almoçar no RU?,fichas,llm
+Dá pra comprar ficha pelo app ou só presencial?,fichas,llm
+Posso pagar as fichas no cartão?,fichas,llm
+Precisa levar carteirinha pra comprar ficha?,fichas,llm
+Como faço pra usar a ficha na entrada do RU?,fichas,llm
+Posso comprar várias fichas de uma vez?,fichas,llm
+"Comprei a ficha, mas perdi. Tem como recuperar?",fichas,llm
+A ficha pode ser usada por outra pessoa?,fichas,llm
+Precisa validar a ficha em algum lugar antes de servir?,fichas,llm
+onde eu compro as fichas pra almoçar no RU,fichas,llm
+da pra comprar ficha pelo aplicativo ou só presencial,fichas,llm
+como faço pra colocar credito nas fichas do RU,fichas,llm
+precisa levar algum documento pra comprar as fichas,fichas,llm
+posso usar a mesma ficha pra pegar almoço e janta,fichas,llm
+se eu perder minhas fichas tem como recuperar,fichas,llm
+as fichas vencem ou posso guardar pra usar outro dia,fichas,llm
+como entrego a ficha na hora de pegar a refeição,fichas,llm
+tem ficha digital ou precisa pegar aquelas de papel,fichas,llm
+posso comprar varias fichas de uma vez pra usar durante a semana,fichas,llm
+"Tô chegando no RU e ainda não tenho ficha, onde eu consigo comprar uma agora?",fichas,llm
+"Preciso almoçar hoje, mas não sei se tenho que comprar a ficha antes ou se dá pra pegar direto na entrada.",fichas,llm
+Comprei várias fichas e tô com dúvida: é só entregar uma na hora de servir a refeição?,fichas,llm
+"Tô com pressa e não achei a ficha que comprei, tem como confirmar se ela ficou registrada no meu cadastro?",fichas,llm
+As fichas são de papel ou ficam disponíveis no aplicativo? Não quero chegar lá e não conseguir usar.,fichas,llm
+"Comprei uma ficha, mas acabei não usando; posso guardar pra outro dia ou ela precisa ser usada na mesma data?",fichas,llm
+"Perdi minha ficha antes de entrar no RU, o que faço pra conseguir servir minha refeição?",fichas,llm
+Dá pra comprar mais de uma ficha de uma vez? Quero deixar as próximas refeições já organizadas.,fichas,llm
+"Na hora de passar pela entrada, preciso apresentar a ficha junto com algum documento ou basta mostrar a própria ficha?",fichas,llm
+Tô na fila e não sei se a ficha é entregue na entrada ou no balcão onde pego a refeição; alguém pode me orientar?,fichas,llm
+Como comprar fichas?,fichas,llm
+Onde retiro fichas?,fichas,llm
+Aceitam cartão?,fichas,llm
+Ficha é física?,fichas,llm
+Como usar a ficha?,fichas,llm
+Preciso entregar a ficha?,fichas,llm
+Posso comprar antecipadamente?,fichas,llm
+Fichas são reutilizáveis?,fichas,llm
+Perdi minha ficha,fichas,llm
+Tem compra por aplicativo?,fichas,llm
+Gostaria de saber como faço para solicitar o subsídio para as refeições no RU.,subsidio,llm
+Quais estudantes podem ter direito ao subsídio para comer no RU?,subsidio,llm
+Poderia me informar quais documentos preciso apresentar para pedir o subsídio?,subsidio,llm
+Existe um prazo específico para solicitar o subsídio do RU neste semestre?,subsidio,llm
+Como posso acompanhar a análise do meu pedido de subsídio para as refeições?,subsidio,llm
+Estudantes de pós-graduação também podem solicitar o subsídio para comer no RU?,subsidio,llm
+"Se eu não tiver todos os documentos exigidos, posso iniciar a solicitação mesmo assim?",subsidio,llm
+O pedido de subsídio deve ser feito pela internet ou presencialmente?,subsidio,llm
+Preciso renovar a solicitação do subsídio a cada semestre ou ela continua válida?,subsidio,llm
+"Caso minha situação socioeconômica mude, como devo atualizar as informações do pedido de subsídio?",subsidio,llm
+Como faço pra pedir o subsídio pra comer no RU?,subsidio,llm
+Quem pode receber o auxílio alimentação do RU?,subsidio,llm
+Quais documentos preciso enviar pra solicitar o subsídio?,subsidio,llm
+Tem que comprovar renda pra conseguir o benefício?,subsidio,llm
+Onde faço a inscrição pro subsídio do RU?,subsidio,llm
+Ainda dá tempo de pedir o subsídio neste semestre?,subsidio,humano
+Quanto tempo demora pra aprovarem a solicitação?,subsidio,llm
+Preciso renovar o pedido todo semestre?,subsidio,llm
+"Se eu já recebo outro auxílio da faculdade, posso pedir esse subsídio tb?",subsidio,humano
+Como acompanho o resultado do pedido de subsídio?,subsidio,llm
+como faço pra pedir o subsidio do RU,subsidio,llm
+quem pode receber o auxilio pra comer no restaurante universitario,subsidio,llm
+quais documentos preciso mandar pra conseguir o subsidio,subsidio,llm
+tem algum prazo pra solicitar o beneficio do RU,subsidio,llm
+onde eu faço o pedido de ajuda pra alimentação,subsidio,llm
+sou calouro posso pedir o subsidio pra refeição,subsidio,llm
+precisa comprovar renda pra ter direito ao auxilio do RU,subsidio,llm
+como vejo se meu pedido de subsidio foi aprovado,subsidio,llm
+tem que renovar o pedido de auxilio pra comer no RU todo semestre,subsidio,llm
+"Tô precisando de ajuda pra conseguir o subsídio do RU, mas não sei por onde começo. Onde faço a solicitação?",subsidio,llm
+Perdi a renda que me ajudava a me manter na faculdade. Posso pedir o subsídio agora ou só em algum período específico?,subsidio,llm
+Quem pode receber o subsídio para comer no RU? Estou com medo de não me encaixar nos critérios.,subsidio,llm
+"Preciso solicitar o benefício com urgência, porque minha situação financeira apertou muito. Existe algum prazo para análise?",subsidio,llm
+Quais documentos tenho que juntar para pedir o subsídio? Quero deixar tudo pronto e não correr o risco de faltar alguma coisa.,subsidio,llm
+Sou calouro e ainda estou entendendo os auxílios da universidade. Como faço para saber se tenho direito ao subsídio do RU?,subsidio,llm
+A inscrição para pedir o subsídio já abriu? Não encontrei a informação e preciso saber até quando posso me candidatar.,subsidio,llm
+Minha família passou por uma mudança financeira recente. Posso atualizar meus dados e solicitar o benefício mesmo já estando no meio do semestre?,subsidio,llm
+Tenho receio de preencher o pedido errado e perder o prazo. Existe algum setor que orienta sobre a documentação e o processo?,subsidio,llm
+"Enviei meu pedido de subsídio, mas não sei como acompanhar a análise. Onde consulto o resultado e quando devo receber uma resposta?",subsidio,llm
+Como solicitar subsídio?,subsidio,llm
+Documentos necessários para ter cadunico?,subsidio,humano
+Prazo para inscrição para acesso do subsídio?,subsidio,humano
+Onde faço o pedido?,subsidio,llm
+Preciso comprovar renda?,subsidio,llm
+Como renovar o benefício?,subsidio,llm
+Inscrição aberta para o cadunico?,subsidio,humano
+Quais comprovantes enviar para ter subsidio?,subsidio,humano
+Quais Critérios para receber subsídio no ru?,subsidio,humano
+Qual o cardápio de hoje no restaurante?,cardapio,humano
+o que tem para comer no RU hoje?,cardapio,humano
+Amanhã vai ter peixe?!!,cardapio,humano
+"Eu não gosyo de carne de porco, tem opção sem?",cardapio,humano
+O que tem de bom pra comer hj?,cardapio,humano
+Qual o rango de agr no restaurante universitario?,cardapio,humano
+Q q tem pra papar today?,cardapio,humano
+"To morrendo de fome, o que tem hj?",cardapio,humano
+Que comerrrrrr!!!!!!!! o que tem hojw,cardapio,humano
+"#fome, o que tem pra comer?",cardapio,humano
+Qual a base pras refeições do RU?,cardapio,humano
+"qual o menu de hoje aí no RU, Rui?",cardapio,humano
+"Falaaa RUI, o que tem de bom hoje pra nóis comer?",cardapio,humano
+"Rui, eu tenho alergua a camarão, tem opção sem camarão?",cardapio,humano
+Que hrs dá pra eu ir lác omer!,horarios,humano
+Quando o RU abre às segundas-feiras?,horarios,humano
+Abre sábado e domingo?,horarios,humano
+No feriado de finados dá ora comer no tu?,horarios,humano
+consigo comer qie hroas?,horarios,humano
+"minha aula acaba 12h, dá tempo de almoçar ainda?",horarios,humano
+"quero jantaaaar, mas já são 20h e ai",horarios,humano
+tem café da manhã até que horasw?,horarios,humano
+Pd ir comer até que horatio?,horarios,humano
+"Abre todo dia da seman? Segunda, terça, quarta, quinta, sexta, sábado e domingo?",horarios,humano
+Consigo ir lá comer na quarta?,horarios,humano
+quinta abre pro almoço no ru?,horarios,humano
+tem janta sábado tbm?,horarios,humano
+tenho só 10zão. dá pra bater um rango?,valores,humano
+Quanto custa a ficha para quem não tem subsídio?,valores,humano
+Todo mundo paga igual no ru?,valores,humano
+qnt custa a fichinha pra comer!!!,valores,humano
+o papelzinho com o qr code pra comer lá e qnts reais?,valores,humano
+qual o valor pra comer lá?,valores,humano
+Consigo tomar café da manhã lá no ru só com 5 reais?,valores,humano
+Quantos reais pra comer?,valores,humano
+Quantas refeições eu consigo fazer no ru com 30 reais?,valores,humano
+O valor é diferente se eu pagar no crédito?,valores,humano
+"sou visitante, não estudo na ufms, mas sou cadunico, eu pago quanto?",valores,humano
+quanto custa a ficha integrak no ru?,valores,humano
+Qual o valor integral da ficha?,valores,humano
+qual o preço da ficha normal?,valores,humano
+Como faz pra comprar a ficha do RU?,fichas,humano
+Eu posso pagar no PIX?,fichas,humano
+Aceita cartão no RU?,fichas,humano
+aceita bitcoin pra pagar?,fichas,humano
+Consigo pagar no boleto?!,fichas,humano
+A fichinha é válida por quanto tempo?,fichas,humano
+posso comprar quantas fichas eu quiser?,fichas,humano
+"se eu comprar a ficha no horario de almoço de hoje, dá pra usar na janta de amanhã?",fichas,humano
+Puedo pagar a ficha pelo nupay?,fichas,humano
+aceita apple wallet é aceita lá no pagamento das fichas?,fichas,humano
+aceita dinheir físico?,fichas,humano
+"se eu pagar só em moedinha de 5 centavos, a tia vai me bater?",fichas,humano
+Quais as formas de pagamento aceitas no RU?,fichas,humano
+débito e crédito são aceitos para pagar no ru?,fichas,humano
+como eu provo que tenho direito ao subsídio???,subsidio,humano
+O CadÚnico vale quanto tempo como comprovante?,subsidio,humano
+Todo mundo paga 3 reais?,subsidio,humano
+Tds os estudntes pagam menos?,subsidio,humano
+"sou estudante, eu automaticamente pago o valor do subsidio ou eu pago integral mesmo?",subsidio,humano
+Consigo comprar ficha normal sendo cadunico?,subsidio,humano
+é ilegal eu pedir a ficha mais barata sem ter direito?,subsidio,humano
+como que faz pra pagar mais barato no ru?,subsidio,humano
+uedhiuds sou cad único e querio pagar mais barato,subsidio,humano
+"Preciso do subsídio, me ajudaaaaaaaa",subsidio,humano
+Como faço para conseguir pagar o valor mais barato no RU?,subsidio,humano
+Como faço para pagar menos na ficha?!,subsidio,humano
+Como comprovo que tenho direito à ficha mais barata?,subsidio,humano
+Precisa de carteirinha pra pagar menos no ru?,subsidio,humano
+"sou da pós, consigo pagar mais barato mesmo fazendo meu doutorado????",subsidio,humano
+o servidor público da ufms tbm consegue pagar menos no ru?,subsidio,humano
+como que faz pra pagar o valotr dos pobres no ru?,subsidio,humano
+Oieeeee,chitchat,humano
+oi oi rui do ru,chitchat,humano
+"Olá, boa tarde! Me ajuda com um negócio aqui?",chitchat,humano
+Dá um help aqui!,chitchat,humano
+MANO VLW AJUDOU MT MDSSS,chitchat,humano
+Obrigada!!,chitchat,humano
+Muito obrigada! Ajudou muito!!!,chitchat,humano
+Agradecida,chitchat,humano
+"ahh tendi, obggg",chitchat,humano
+thcauuuu,chitchat,humano
+Tchauzinho! Obrigada de novo,chitchat,humano
+"Adeus, me ajudou em nada",chitchat,humano
+"Nss, que ridículo, não me ajudou em nada",chitchat,humano
+Que hroas abre a biblio da uf?,fora_dominio,humano
+Consigo comer na cantina todo dia?,fora_dominio,humano
+A cantina da faeng fica aberta até quando?,fora_dominio,humano
+Qnt custa o passe de ônibus?,fora_dominio,humano
+pq q tá tão caro o pastel do mercado escola??,fora_dominio,humano
+que horas abre a facom?,fora_dominio,humano
+como preenche a ficha pra pedir o passe de ônibus?,fora_dominio,humano
+"To morrendo de fome aqui, me fala onde tem cantina na ufms",fora_dominio,humano
+Só CadUnico tem acesso ao passe do estudante?,fora_dominio,humano
+Me diz onde fica a secretaria acadêmica da faeng,fora_dominio,humano
+curso EAD precisa fazer prova presencial?,fora_dominio,humano
+O subsídio pra receber auxílio permanência funciona como?,fora_dominio,humano
+Tem banheiro no corredor central?!!,fora_dominio,humano
+quando que abre a biblioteca aos fins de semana?,fora_dominio,humano
+até horas a cantina serve hamburguer?,fora_dominio,humano
+tem que assinar termo de concessão de bolsa de ic pelo gov?,fora_dominio,humano
+como eu faço pra ter cadUnico?,fora_dominio,humano
+posso comprar livro na ufms?,fora_dominio,humano
+O que vc acha dos preços do passe de ônibus do consórcio guaicurus??,fora_dominio,humano
+Quantas calorias tem o prato de hoje?,cardapio,humano
+"Sou intolerante a lactose, tem opção para mim?",cardapio,humano
+Tem opção vegetariana?,cardapio,humano
+Tem opção vegana?,cardapio,humano
+"Sou diabético, tem arroz integral?",cardapio,humano
+O que é de sobremesa hoje no ru?,cardapio,humano
+Qual a salada de hoje do restaurante universitário?,cardapio,humano
+Tem alguma bebida para acompanhar a refeição?,cardapio,humano
+Quais os ingredientes dos pratos de hoje?,cardapio,humano
+O prato do almoço é o mesmo que o do jantar?,cardapio,humano
+Tem polenguinho no café da manhã do ru?,cardapio,humano
+Até que horas eu posso ficar no ru?,horarios,humano
+"Meu deus, to atrasado, chego em 30 minutos, vai dar tempo de comer?",horarios,humano
+Q hrs q abr o ru?,horarios,humano
+Tem janta nos sábados?,horarios,humano
+"Que absurdo, nunca pensam nos cadunicos ne? Como assim não abre no domingo?",horarios,humano
+O horário nos sábados é o mesmo que nos dias da semana?,horarios,humano
+O ru abre em dias nao letivos?,horarios,humano
+Vocês servem comida de madrugada?,horarios,humano
+É 3 reais ne?,valores,humano
+Onde que eu faço cadastro pra pagar mais barato?,subsidio,humano
+É verdade que esse é o ru mais caro do Brasil?,fora_dominio,humano
+É treze e quanto mesmo?,valores,humano
+Vocês trocam 50 reais?,valores,humano
+Todo mundo paga igual ne?,valores,humano
+"Eu nao estudo na uf, quanto que eu pago para comer no RU?",valores,humano
+Posso pagar no pix?,fichas,humano
+"Final de mês, não aguento mais, posso pagar no crédito?",fichas,humano
+Vocês aceitam vr?,fichas,humano
+Quantas fichas eu posso comprar de uma vez?,fichas,humano
+quanto custa o ticket pra comer no ru?,valores,humano
+eu posso usar o ticket que eu comprei hj pra comer amn?,fichas,humano
+"A ficha vale por quanto tempo? Eu tenho algumas, mas nao vou usar nas férias",fichas,humano
+Precisa de mais alguma coisa além da ficha?,fichas,humano
+Tem como comprar fichas digitais? Tenho medo das minhas rasgarem,fichas,humano
+Eu posso dar minhas fichas pra uma amiga?,fichas,humano
+"Perdi a minha ficha, mas tenho foto dela, eu posso entrar?",fichas,humano
+Tem diferença entre as fichas?,fichas,humano
+"Se eu roubar uma ficha, eu posso usar?",fichas,humano
+"Achei uma ficha no chão, é uma de 3 reais, eu posso usar? Sou cadunico tambem",fichas,humano
+"Meu amigo me deu uma ficha integral, eu posso usar mesmo sendo cadunico?",fichas,humano
+"Meu celular descarregou 😭 não consigo escanear o qr, mas eu tenho minha ficha, tem como eu passar?",fichas,humano
+Quem tem direito ao subsídio?,subsidio,humano
+Pra conseguir o subsídio é só ir na PROAES?,subsidio,humano
+"Eu não tenho mais a folha resumo, mas tenho o cadunico, eu posso mandar a folha digital para validar meu subsídio?",subsidio,humano
+Como eu sei que o meu direito ao subsídio foi validado?,subsidio,humano
+O que acontece se for identificado omisão de informação no meu subsídio?,subsidio,humano
+O que é o subsídio?,subsidio,humano
+"Eu tenho o cadunico, só não ta atualizado, eu tenho direito ao subsídio?",subsidio,humano
+"O meu cadunico foi expirado, onde eu atualizo?",subsidio,humano
+Pra quem tem subsídio é 3 reais ainda? Que caro,subsidio,humano
+"Fiz meu cadunico hoje, ja tenho direito ao subsídio?",subsidio,humano
+"Oi ru, como que você tá?",chitchat,humano
+Obgggggg,chitchat,humano
+"Tabom, agora vou ir comer",chitchat,humano
+Nossaaaa obrigadoooo ajudou muitooo,chitchat,humano
+"Bom dia, tudo bem?",chitchat,humano
+"Tchauuu, beijoooos",chitchat,humano
+Nsss vlw mn nn tava achando em lgr nenhum,chitchat,humano
+Oieeee qual o seu nome?,chitchat,humano
+"Voce é fera, vlw parça",chitchat,humano
+"Eai menó, qual a boa de hoje?",chitchat,humano
+"Agora vou indo ta be, valeu beijao",chitchat,humano
+Que horas começa a minha aula?,fora_dominio,humano
+A uf ta aberta agora?,fora_dominio,humano
+Qual as comidas do ru hj?,cardapio,humano
+O q q tem pra comer hj?,cardapio,humano
+"Fala meu rei, que comida tem hj la no ru?",cardapio,humano
+"Meu consagrado,manda o cardápio aí",cardapio,humano
+Tem como comer no RU sendo vegetariano?,cardapio,humano
+Tem sobremesa no RU?,cardapio,humano
+Quantas proteínas podemos pegar no RU?,cardapio,humano
+Quais as coisas que vem no prato do RU?,cardapio,humano
+Posso pegar duas sobremesas?,cardapio,humano
+Como posso ver o cardapio original da semana?,cardapio,humano
+Da para tirar a carne do cardápio?,cardapio,humano
+Que horas abre o ru?,horarios,humano
+Quando começa e termina o almoço?,horarios,humano
+Qual o primeiro horário para jantar?,horarios,humano
+Posso jantar até que horas?,horarios,humano
+O RU fica aberto o dia todo?,horarios,humano
+Até quando posso ir almoçar no RU?,horarios,humano
+Qual o limite de horário para comprar café da manhã?,horarios,humano
+Qual o horário de fechamento do RU?,horarios,humano
+Qual horário o RU começa a atender?,horarios,humano
+Quantas horas o RU fica aberto?,horarios,humano
+Da para ir almoçar as 15h no RU?,horarios,humano
+É possível jantar no RU 23h30?,horarios,humano
+Posso tomar café da manhã 6h da manhã?,horarios,humano
+Da pra eu começar a jantar as 17h30?,horarios,humano
+Quanto preciso pagar na ficha de almoço?,valores,humano
+Qual o valor do café da manhã?,valores,humano
+Quanto é a janta?,valores,humano
+Quantos reais é ficha completa de janta?,valores,humano
+Quanto preciso para comer um dia no RU?,valores,humano
+"O preço da janta, do almoço e do café da manhã são iguais?",valores,humano
+O valor do jantar é maior que do almoço?,valores,humano
+Da para pagar meio valor para crianças?,valores,humano
+Os preços das fichas são sempre os mesmos durante o mês?,valores,humano
+"Almoço, janta e café da manhã são quanto?",valores,humano
+Me fala aí o preço das refeições,valores,humano
+"Se eu comprar uma ficha de almoço, posso usar na janta?",fichas,humano
+"Se eu comprar uma ficha de café da manhã hoje, posso usar ela amanhã?",fichas,humano
+Quanto é a ficha de almoço para estudantes da UFMS?,valores,humano
+Quanto é a ficha de almoço do RU para pessoas externas da faculdade?,valores,humano
+Posso pegar 10 fichas de uma vez?,fichas,humano
+Onde compro as fichas do RU?,fichas,humano
+Qual o local correto pra comprar as fichas?,fichas,humano
+Tem q comprar as fichas fora do RU?,fichas,humano
+Me fala o valor da ficha pra todas as refeições no dia de hoje.,valores,humano
+Quem pode ter acesso a desconto no RU?,subsidio,humano
+Porque tem pessoas que pagam mais barato no RU?,subsidio,humano
+Posso pagar mais barato nas fichas do RU também?,subsidio,humano
+Quem tem bolsa de extensão tem que pagar o valor todo?,subsidio,humano
+O Cadunico é o único meio de pagar valor mais baixo na ficha?,subsidio,humano
+Quais os pré-requisitos para ter subsídio?,subsidio,humano
+Me fale o que devo ter para poder usar subsídio,subsidio,humano
+"Não tenho cadastro único, posso ter subsídio?",subsidio,humano
+Qual a exigência para poder ter desconto no RU?,subsidio,humano
+Quanto paga quem tem acesso a subsídio no RU?,subsidio,humano
+"Oiii ruii, bom demais?",chitchat,humano
+"Helloo, td certo?",chitchat,humano
+"Rói, é... rui né?",chitchat,humano
+Olá! Tudo blz rui?,chitchat,humano
+Vlww,chitchat,humano
+Vlww dmss,chitchat,humano
+Obggg,chitchat,humano
+Tmj parceiro,chitchat,humano
+"Vlww, flw",chitchat,humano
+"Beleza, obg viu",chitchat,humano
+"Blzzz, falou",chitchat,humano
+"Vlw irmão, tmj",chitchat,humano
+Quais os lanches disponíveis na cantina das quadras?,fora_dominio,humano
+A cantina do multiuso está a aberta?,fora_dominio,humano
+Porque tem carne de porco entre as opções de comida do RU?,cardapio,humano
+"Posso pagar uma ficha no almoço, ficar no RU ate a janta e comer de novo de graça?",fichas,humano
+Quanto é o cone do moço do RU?,fora_dominio,humano
+Qual o nome do menino que interrompe as pessoas para vender brownie?,fora_dominio,humano
+Tem limite de colheres de arroz que eu posso pegar?,cardapio,humano
+o cardápio tem informação nutricional?,cardapio,humano
+o cardápio muda todo dia?,cardapio,humano
+o cardápio muda na janta?,cardapio,humano
+o cardápio do café da manhã é igual do almoço?,cardapio,humano
+o que faz parte do cardápio?,cardapio,humano
+o cardápio tem opção pra quem é celíaco?,cardapio,humano
+o cardápio tem opção vegana?,cardapio,humano
+o cardápio tem fruta?,cardapio,humano
+o cardápio sempre contém arroz?,cardapio,humano
+o cardápio contém sobremesa?,cardapio,humano
+o ru abre que horas?,horarios,humano
+o ru fecha às 19h?,horarios,humano
+o ru fecha nos sábados?,horarios,humano
+o ru abre nos domingos?,horarios,humano
+o ru funciona nos feriados?,horarios,humano
+o ru é 24h?,horarios,humano
+o ru abre sempre no mesmo horário todos os dias?,horarios,humano
+o ru fecha quanto tempo antes do horário previsto?,horarios,humano
+o ru abre antes pra servidores?,horarios,humano
+o ru funciona o dia inteiro?,horarios,humano
+o ru é mais caro pra quem é rico?,valores,humano
+quanto custa o prato de almoço?,valores,humano
+quanto é o café?,valores,humano
+o preço varia conforme os dias?,valores,humano
+o preço aumenta aos domingos?,valores,humano
+pobre paga menos?,valores,humano
+quanto é o café da manhã pra quem tem subsídio?,valores,humano
+os preços de almoço e janta variam?,valores,humano
+é verdade que o almoço é mais caro que a janta?,valores,humano
+o café da manhã é de graça?,valores,humano
+eu tenho que pegar a ficha antes de servir?,fichas,humano
+eu consigo comprar a ficha por pix?,fichas,humano
+a compra da ficha pelo crédito tem taxa?,fichas,humano
+a ficha pode ser comprada online?,fichas,humano
+a ficha é renovável?,fichas,humano
+eu consigo usar a mesma ficha duas vezes no dia?,fichas,humano
+eu posso comprar quantas fichas de uma vez?,fichas,humano
+eu posso comprar fichas pro mês todo?,fichas,humano
+é possível pagar a ficha no dinheiro?,fichas,humano
+onde eu tenho que apresentar a ficha?,fichas,humano
+"eu tenho CadÚnico, eu consigo comer por um preço menor?",subsidio,humano
+eu consigo pagar menos no café da manhã tendo renda baixa?,subsidio,humano
+o ru é de graça pra quem tem subsídio?,subsidio,humano
+como eu consigo provar que tenho subsídio?,subsidio,humano
+eu preciso comprovar minha renda na hora de comprar?,subsidio,humano
+eu preciso ter carteirinha do bolsa família pra pagar menos?,subsidio,humano
+o subsídio vale pro ano todo?,subsidio,humano
+eu preciso renovar o subsídio?,subsidio,humano
+quanto é a janta pra quem paga menos?,valores,humano
+obrigada rui,chitchat,humano
+oii rui,chitchat,humano
+rui preciso tirar uma dúvida,chitchat,humano
+tchau rui,chitchat,humano
+até a próxima rui,chitchat,humano
+"muito obrigada, me ajudou muito",chitchat,humano
+oi rui vc me ajuda numa coisa?,chitchat,humano
+"tá bom rui, valeu",chitchat,humano
+oi rui querido!,chitchat,humano
+rui me ajuda por favor,chitchat,humano
+como eu faço pra recuperar minha nota?,fora_dominio,humano
+como faz pra frequentar a academia escola?,fora_dominio,humano
+na ufms tem curso de piscicultura?,fora_dominio,humano
+como faz pra estudar na ufms?,fora_dominio,humano
+tem lugar pra comer fast food dentro do campus?,fora_dominio,humano
+oi rui você é homem?,fora_dominio,humano
+o passe de estudante desse ano já tá disponível?,fora_dominio,humano
+o businho passa que horas?,fora_dominio,humano
+rui qual o bloco mais perto do ru?,fora_dominio,humano
+qual a temperatura hoje?,fora_dominio,humano
+Qual sua comida favorita?,fora_dominio,humano
+como que sobrevive à semana de provas? 😂🤣,fora_dominio,humano
+"Rui, o que vc acha de eu trancar meu curso",fora_dominio,humano
+como que faz pra fazer permuta interna na ufms?,fora_dominio,humano
+amoooo,chitchat,humano
+"Juro, que lacre rui mds!!! Ar-ra-sou!",chitchat,humano
+Quem tem direito de pedir subsídio?,subsidio,humano
+oi maninho fala ai,chitchat,humano
+fala com nóis pae,chitchat,humano
+oi muito bom dia!!,chitchat,humano
+Boa madrugada,chitchat,humano
+Como vai por aí?,chitchat,humano
+Tudo certo?,chitchat,humano
+Kamsahamnida,chitchat,humano
+"xie xie, chat",chitchat,humano
+Por favor me ajuda,chitchat,humano
+"Cara, to desesperada, me ajuda pelo amor de tudo que é mais sagrado",chitchat,humano
+"Hi, how are you?",chitchat,humano
+Oie!,chitchat,humano
+O RU funciona todos os dias?,horarios,humano
+tem desconto pra quem é pobre?,subsidio,humano
+Como faz pra receber isenção na ficha do RU?,subsidio,humano
+"G'day, mate!",chitchat,humano
+Faaaaaala meu mano Rui! Me ajuda aqui?,chitchat,humano
+Como vão seus semicondutores de silício?,chitchat,humano
+e aí bão?,chitchat,humano
+"dia bonito hoje, né?",chitchat,humano
+tu vai me ajudar msm,chitchat,humano
+lacrou divo,chitchat,humano
+Alô! Me ajuda?,chitchat,humano
+"Hola, como vai?",chitchat,humano
+Grazie,chitchat,humano
+Obrithanks!,chitchat,humano
+Vc até que foi prestativo,chitchat,humano
+Até outro dia!!,chitchat,humano
+Não acreditoooooo. Agora entendi,chitchat,humano
+bora me ajudar aqui,chitchat,humano
+Às vezes é sobre ler as coisas né kkkk. Vlw,chitchat,humano
+tendi obg,chitchat,humano
+"mds que caro, mas obg",chitchat,humano
+"Ameiii que eu pago menos, obriggg",chitchat,humano
+vc que é o tal do rui do ru?,chitchat,humano
+vlw mesmo pela ajuda,chitchat,humano
+"espelho espelho meu, existe alguém mais confuso do que eu? Ajuda eu aqui",chitchat,humano
+como vc tá?,chitchat,humano
+bora pra mais um dia ajudando alunos ru?,chitchat,humano
+"que fomee, cê vai me ajudar mesmo?",chitchat,humano
+dia,chitchat,humano
+bão?,chitchat,humano
+amanhã eu volto!,chitchat,humano
+tá. vlw.,chitchat,humano
+aham tendi vlw,chitchat,humano
+não precisa me ajudar com mais nada não valeu,chitchat,humano
+De nada,chitchat,humano
+Não vou agradecer pq vc me enrolou dms tchau,chitchat,humano
+cansei de vc falou,chitchat,humano
+"Okok, tendeu",chitchat,humano
+Vamo rui bora fi,chitchat,humano
+"Que chat inútil, mds. Adeus",chitchat,humano
+Adeus,chitchat,humano
+Até nunca mais!,chitchat,humano
+como pode não ajudar em nada?? Tchau,chitchat,humano
+Byee,chitchat,humano
+O professor vai ler tudo isso aqui?,fora_dominio,humano
+Minha nota vai ser boa no trabalho,fora_dominio,humano
+quando sai a nota da p2?,fora_dominio,humano
+é vdd que o professor vai fazer revisão pra p2?,fora_dominio,humano
+vai ter coffee break na secomp?,fora_dominio,humano
+Eu posso desistir de tudo?,fora_dominio,humano
+Vc acha que vai dar tempo de terminar o trabalho?,fora_dominio,humano
+Quanto custa a mensalidade da UCDB?,fora_dominio,humano
+Qual sua música favorita?,fora_dominio,humano
+Onde eu consigo comprar livro?,fora_dominio,humano
+como faz pra passar de lfa?,fora_dominio,humano
+qual a capital do Afeganistão?,fora_dominio,humano
+por que as girafas tem um pescoço tão grande?,fora_dominio,humano
+faça um resumo do livro a menina que roubava livros,fora_dominio,humano
+qual o preço médio de um marcapasso?,fora_dominio,humano
+qual é a fórmula da área do triângulo?,fora_dominio,humano
+como que joga truco?,fora_dominio,humano
+qual presente eu compro pra minha mãe?,fora_dominio,humano
+quanto é a cesta básica no atacadão?,fora_dominio,humano
+qual o melhor hotel de Campo Grande?,fora_dominio,humano
+qual notebook comprar em 2026?,fora_dominio,humano
+"meu celular caiu na piscina, onde eu levo pra arrumar?",fora_dominio,humano
+banho de sal grosso ajuda em alguma coisa?,fora_dominio,humano
+"meus pais não aceitam minha religião, o que fazer?",fora_dominio,humano
+quanto vale o meu chevette 2008?,fora_dominio,humano
+qual o melhor protetor solar do mercado?,fora_dominio,humano
+como faço pra cursar nutrição na ufms?,fora_dominio,humano
+na uems tem ru?,fora_dominio,humano
+qual a nota no MEC pro curso de administração na ufms?,fora_dominio,humano
+arroz é carboidrato?,fora_dominio,humano
+qual a maior montanha do mundo?,fora_dominio,humano
+sobremesa causa diabetes?,fora_dominio,humano
+"meu crush não gosta de mim, o que eu faço?",fora_dominio,humano
+me indique uma música da Ivete Sangalo,fora_dominio,humano
+qual a previsão astrológica hoje pra peixes?,fora_dominio,humano
+O HU (Hospital universitário) funciona 24 horas?,fora_dominio,humano
+O businho passa em que horário?,fora_dominio,humano
+O spotify tem subsídio?,fora_dominio,humano
+O INQUI abre de manhã?,fora_dominio,humano
+Que dia cai a bolsa do petsaude?,fora_dominio,humano
+Formigas fazem cocô?,fora_dominio,humano
+O canva tem plano para estudante?,fora_dominio,humano
+Que dia sai a nota da PO?,fora_dominio,humano
+Como faço para solicitar isenção no concurso da UFMS?,fora_dominio,humano
+Quais as aulas disponíveis para matrícula neste semestre para os acadêmicos de engenharia de software?,fora_dominio,humano
+Que horas passa o ônibus?,fora_dominio,humano
+Gere um resumo explicativo sobre a ditadura no Brasil,fora_dominio,humano
+Já passou do prazo de pedido de isenção do passe da UFMS?,fora_dominio,humano
+Até quando é o prazo de pedido de isenção do vestibular da UFMS?,fora_dominio,humano
+Qual o valor de inscrição do vestibular?,fora_dominio,humano
+Que horário fecham os portões do ENEM?,fora_dominio,humano
+Se escreve sobremesa ou sobre-mesa?,fora_dominio,humano
+Onde eu pego o ingresso do show que vai ter no glauce rocha?,fora_dominio,humano
+O subsídio do minha casa minha vida é destinado para todos?,fora_dominio,humano
+Me dê a receita da salada cesar,fora_dominio,humano
+Qual o valor da ficha de passaporte do vitinho park?,fora_dominio,humano
+Consulte a minha ficha de inscrição do vestibular e identifique se tem algum erro,fora_dominio,humano
+A ficha criminal do meu marido é limpa?,fora_dominio,humano
+Hoje é open no batata?,fora_dominio,humano
+Qual o horário de funcionamento do batata?,fora_dominio,humano
+O batata abre de domingo?,fora_dominio,humano
+Quanto tempo leva pra cair a bolsa de mestrado?,fora_dominio,humano
+a facom abre aos fins de semana?,fora_dominio,humano
+Fezes de passarinho transmitem doença,fora_dominio,humano
+Vc acha que eu me formo em 2028?,fora_dominio,humano
+"Rosas são vermelhas, violetas são azuis, eu quero saber se na faeng vende cuscuz",fora_dominio,humano
+O QUE VC ACHA DA AULA DE PROG WEB?,fora_dominio,humano
+oi lim.do voçê é solteiro ?,fora_dominio,humano
+Como eu sei que passei de IA?,fora_dominio,humano
+como eu peço o subsidio do minha casa minha vida?,fora_dominio,humano
+é vdd que o passe de ônibus é subsidio?,fora_dominio,humano
+a biblioteca abre aos sábados?,fora_dominio,humano
+Que horas começa a aula de IA na sexta?,fora_dominio,humano
+O multiuso II funciona todo dia?,fora_dominio,humano
+"Rui, qual é meu valor no mundo?",fora_dominio,humano
+Vc gosta daquela música alô virgínia?,fora_dominio,humano
+O michel teló é de cg?,fora_dominio,humano
+Vai ter prova de bolsa pra entrar no pet?,fora_dominio,humano
+qual seu país fav?,fora_dominio,humano
+"Se eu pegar DP de uma matéria que tranca outra, eu ainda posso cursar as que ela não tranca?",fora_dominio,humano
+"Se eu faltar a aula de IA, quais as chances de eu ir muito mal na prova?",fora_dominio,humano
+O arroz é umna leguminosa?,fora_dominio,humano
+quais as calorias do mangostão-amarelo?,fora_dominio,humano
+Todo mundo que é alérgico a peixe tbm é alérgico a camarão?,fora_dominio,humano
+Quantos salários mínimos eu posso ter e ainda pedir bolsa família?,fora_dominio,humano
+Quem criou o auxílio permanência da ufms?,fora_dominio,humano
+quem é o reitor da ufms?,fora_dominio,humano
+Como faz pra sair no meio da aula e ir ao banmehiro?,fora_dominio,humano
+Dicas para não procrastinar,fora_dominio,humano
+Os computadores da facom são de livre acesso?,fora_dominio,humano
+Posso esquentar minha comida no ru?,geral,humano
+Tem bebedouros no RU?,geral,humano
+Onde higienizar as mãos no ru?,geral,humano
+"Preciso lavar minha mão, o ru tem lugar pra isso?",geral,humano
+"Estou com suspeita de intoxicação alimentar, onde posso realizar a denúncia?",geral,humano
+"Depois de comer, onde deixo a minha bandeja?",geral,humano
+O que fazer depois de terminar a refeição?,geral,humano
+"O sistema caiu, tem como comer sem escanear o qrcode?",geral,humano
+como posso mostrar o QRCode no RU?,geral,humano
+Onde posso consultar minhas refeições?,geral,humano
+posso levar minha marmita pra comer com os meus amigos?,geral,humano
+"O siscad caiu, como faço para comer no ru?",geral,humano
+Onde posso fazer sugestões para o ru?,geral,humano
+Onde eu coloco o prato depois de comer?,geral,humano
+Eu deixo a bandeja na mesa para os funcionários recolherem?,geral,humano
+O que é o RU?,geral,humano
+Posso repetir a minha refeição?,geral,humano
+"Esqueci a minha garrafa, o RU possui copos descartáveis?",geral,humano
+O RU disponibiliza copos para beber água?,geral,humano
+Quais os contatos oficiais do ru?,geral,humano
+Onde entro em contato com os responsáveis pelo ru?,geral,humano
+"Minha internet não está funcionando, posso comer sem escanear o QRCode?",geral,humano
+Posso almoçar no Ru mesmo sem comer a comida de lá?,geral,humano
+Onde fica o ru?,geral,humano
+Quais são as informações de contato do RU?,geral,humano
+Como posso contatar os responsáveis do RU?,geral,humano
+Onde posso limpar as minhas mãos no ru?,geral,humano
+Da pra limpar as mãos no ru?,geral,humano
+Tem algum banheiro perto ou no ru?,geral,humano
+Da pra esquentar minha comida no ru/,geral,humano
+como posso ver todas as refeições que ja tive no ru?,geral,humano
+comi ontem la no ru e estou passando muito mal. Como posso notificar que estou com intoxicação alimentar?,geral,humano
+"Eu vi um bicho na minha comida, como posso denunciar?",geral,humano
+"Tinha um caramujo no alface da janta de hoje, como posso avisar os responsáveis para não acontecer mais isso?",geral,humano
+Como posso me cadastrar no ru sem estar com o celular para escanear o qr code?,geral,humano
+"Meu app do Sou ufms não está funcionando direito, como posso ainda almoçar no ru sem escanear o qr code?",geral,humano
+O que eu faço com a bandeja e o prato depois de comer?,geral,humano
+Depois de comer pode só deixar as coisas em cima da mesa?,geral,humano
+"Depois de servir meu prato, posso repetir e colocar mais comida?",geral,humano
+Dá pra servir mais uma pratada de comida?,geral,humano
+Tem que reservar mesa pra comer no RU?,geral,humano
+É obrigatório escanear o QRcode pra comer?,geral,humano
+Quem pode usar o microondas do RU?,geral,humano
+Somente alunos podem comer no RU?,geral,humano
+No RU tem geladeiras disponíveis pra guardar marmita?,geral,humano
+Onde posso reclamar de insetos na salada do RU?,geral,humano
+O RU tem telefone de contato?,geral,humano
+Quem é o órgão responsável pelo RU?,geral,humano
+Quem é a empresa atualmente responsável pelo RU?,geral,humano
+O RU disponibiliza álcool em gel pra higienização?,geral,humano
+Alguém vem recolher a bandeja depois que eu comer?,geral,humano
+"Meus amigos sempre almoçam por lá, mas eu levo marmita. Posso comer com eles?",geral,humano
+tem onde lavar a mão depois de comer?,geral,humano
+"eu conto caloria e quero comer com meus amigos, posso levar minha marmita?",geral,humano
+Tem bebedouro para encher a garrafa?,geral,humano
+No RU tem mesa e cadeira?,geral,humano
+Como eu posso falar com alguém do RU?,geral,humano
+Tenho algumas sugestões para mandar. Onde eu posso fazer isso?,geral,humano
+Tem banheiro lá no Restaurante Universitário?,geral,humano
+Onde eu deixo as louças que eu usei para comer?,geral,humano
+Eu tenho que lavar meu prato depois de comer?,geral,humano
+Gostaria de saber se o Restaurante Universitário possui algum telefone ou e-mail para contato caso eu precise tirar dúvidas ou fazer alguma solicitação.,geral,llm
+O Restaurante Universitário possui alguma página oficial ou perfil nas redes sociais para divulgar informações aos estudantes?,geral,llm
+Poderia me informar onde fica localizado o RU dentro da universidade e como faço para chegar até ele?,geral,llm
+"Existe algum canal específico para registrar reclamações, sugestões ou elogios sobre os serviços prestados pelo Restaurante Universitário?",geral,llm
+Gostaria de saber se o RU disponibiliza algum recurso de acessibilidade para estudantes com deficiência ou mobilidade reduzida.,geral,llm
+O Restaurante Universitário oferece algum serviço de atendimento presencial para esclarecer dúvidas dos alunos?,geral,llm
+"Caso eu tenha algum problema ou dúvida sobre os serviços do Restaurante Universitário, com qual setor da universidade devo entrar em contato?",geral,llm
+"Oi, vc sabe onde fica o RU?",geral,llm
+Tem algum telefone pra contato?,geral,llm
+Como faço pra falar com a administração do RU?,geral,llm
+Vcs oferecem algum atendimento online?,geral,llm
+Qual o email de contato do RU?,geral,llm
+Onde posso mandar sugestões ou reclamações?,geral,llm
+Localização do RU,geral,llm
+Telefone de contato do RU por favor,geral,humano
+Email do restaurante,geral,llm
+"Oi, preciso encontrar o RU e estou meio perdido no campus. Você consegue me passar a localização certinha?",geral,llm
+"Gente, preciso falar com alguém responsável pelo restaurante, mas não encontro nenhum contato. Pode me ajudar?",geral,llm
+Estou com um problema e preciso registrar uma reclamação sobre o RU com urgência. Onde consigo fazer isso?,geral,llm
+Preciso entrar em contato com o pessoal do RU o quanto antes. Vocês têm algum telefone ou e-mail disponível?,geral,llm
+"Queria enviar uma sugestão sobre o atendimento do RU, mas não sei qual canal utilizar. Como posso fazer isso?",geral,llm
+onde fica o resturante universitario,geral,llm
+tem algum numero pra fala com o RU,geral,llm
+qual o email do pessoal do restaurante,geral,llm
+vcs tem alguma pagina com duvidas frequentes,geral,llm
+onde posso manda uma reclamassao sobre o restaurante,geral,llm
+como faço pra entra em contato com a administrasao do RU,geral,llm
+quantas páginas tem o livro dom casmurro?,fora_dominio,humano
+Borboletas eram lagartas antes?,fora_dominio,humano
+como faço pra renovar minha carteirinha da bibliotca,fora_dominio,llm
+vc sabe onde fica a coordenaçao do meu curso,fora_dominio,llm
+qual o prazo pra solicitar transferencia de universiddae,fora_dominio,llm
+nao estou conseguindo acessar o portal do aluno,fora_dominio,llm
+meu professor nao lançou minha nota ainda oq eu faço,fora_dominio,llm
+Estou tentando resolver um problema na minha matrícula e o prazo está acabando. Você consegue verificar isso pra mim?,fora_dominio,llm
+"Preciso encontrar a secretaria do meu curso urgentemente, pois tenho que entregar um documento hoje. Onde fica?",fora_dominio,llm
+Não consigo acessar minha conta institucional e preciso consultar um material para uma atividade que vence daqui a pouco. Pode me ajudar?,fora_dominio,llm
+Estou com dificuldades para emitir meu histórico acadêmico e preciso dele para uma inscrição ainda hoje. Como faço?,fora_dominio,llm
+"Já tentei entrar em contato com a coordenação, mas não tive retorno. Você sabe como posso resolver essa situação?",fora_dominio,llm
+vc sabe onde fica a biblioteca?,fora_dominio,llm
+como vejo minhas notas?,fora_dominio,llm
+tem aula hj?,fora_dominio,llm
+qual o contato da secretaria?,fora_dominio,llm
+me ajuda a escolher um notebook pra faculdade?,fora_dominio,llm
+Poderia me informar como faço para solicitar uma declaração de matrícula na universidade?,fora_dominio,llm
+Gostaria de saber onde posso consultar as oportunidades de estágio oferecidas pela instituição.,fora_dominio,llm
+Você poderia me orientar sobre como entrar em contato com a coordenação do meu curso?,fora_dominio,llm
+Existe algum portal onde os estudantes conseguem consultar as notas e o histórico acadêmico?,fora_dominio,llm
+Poderia me recomendar alguns métodos para melhorar minha concentração durante os estudos?,fora_dominio,llm
+A FACOM abre aos domingos?,fora_dominio,humano
+O bloco 6 está aberto?,fora_dominio,humano
+Até que horário a caixa da UFMS funciona?,fora_dominio,humano
+Onde fica o bloco de psicologia?,fora_dominio,humano
+Qual o valor do auxílio permanência?,fora_dominio,humano
+Preciso de cadunico pro auxílio de moradia?,fora_dominio,humano
+Onde fica a secretaria acadêmica da FACOM?,fora_dominio,humano
+Qual o contato da AGETIC?,fora_dominio,humano
+Onde posso enviar os documentos para trancar o curso?,fora_dominio,humano
+Que horas fecha o INQUI?,fora_dominio,humano
+Até que horário o businho passa?,fora_dominio,humano
+Qual o horário de funcionamento do businho?,fora_dominio,humano
+Onde na UFMS posso imprimir a minha ficha de inscrição?,fora_dominio,humano
+A ponte do INQUI fica aberta o dia inteiro?,fora_dominio,humano
+Onde fica a ESAN?,fora_dominio,humano
+Qual o telefone da ESAN?,fora_dominio,humano
+Onde vai ser o concerto da orquestra de violões?,fora_dominio,humano
+Quem tem cadunico tem direito a isenção da escola de artes?,fora_dominio,humano
+Qual o email do professor bruno?,fora_dominio,humano
+Na FACOM tem bebedouros?,fora_dominio,humano
+Onde mando reclamações sobre a sala de estudos da FACOM?,fora_dominio,humano
+Qual o valor dos salgados na cantina da FAENG?,fora_dominio,humano
+Tem microondas na FACOM?,fora_dominio,humano
+Tem lugar para esquentar minha comida no corredor central?,fora_dominio,humano
+Pode me enviar o QRCode da aula de IA hoje?,fora_dominio,humano
+Tem banheiro no bloco de arquitetura?,fora_dominio,humano
+O bloco 6 tem microondas?,fora_dominio,humano
+Qual o horário de funcionamento do LEAP?,fora_dominio,humano
+Quem tem cadunico paga a academia escola?,fora_dominio,humano
+Que horas o bloco de música abre?,fora_dominio,humano
+Onde eu pego a ficha para o concerto que vai ter no Glauce Rocha?,fora_dominio,humano
+Posso pagar minha inscrição na escola de artes no cartão de crédito?,fora_dominio,humano
+Qual o valor de inscrição pra SECOMP?,fora_dominio,humano
+Que horas o bloco de arquitetura fecha?,fora_dominio,humano
+A Impressao da UFMS abre aos domingos?,fora_dominio,humano
+Qual o valor do xérox na Impressão da UFMS?,fora_dominio,humano
+Qual o valor da bolsa do LIA?,fora_dominio,humano
+Qual o valor da bolsa do LEDES?,fora_dominio,humano
+Qual o preço da impressão colorida na Impressão da UFMS?,fora_dominio,humano
+Que horas abre o Autocine?,fora_dominio,humano
+O bloco 6 tá fechado?,fora_dominio,humano
+"Rui, onde fica a FAENG?",fora_dominio,humano
+A biblioteca abre em ponto facultativo?,fora_dominio,humano
+Onde faço sugestões para a melhora da FACOM?,fora_dominio,humano
+Qual o contato do coordenador de curso de Engenharia de Software?,fora_dominio,humano
+A reitoria funciona em horário normal aos finais de semana?,fora_dominio,humano
+Qual o contato da reitoria?,fora_dominio,humano
+A reitoria abre aos domingos?,fora_dominio,humano
+Qual o valor do raioX na FAMEZ?,fora_dominio,humano
+A FAMEZ abre todos os dias?,fora_dominio,humano
+quais serão as temperaturas para a próxima semana,fora_dominio,massive
+qual a temperatura atual,fora_dominio,massive
+guarda chuva mais tarde,fora_dominio,massive
+quão quente está lá fora,fora_dominio,massive
+qual é o tempo no porto hoje,fora_dominio,massive
+está o tempo nublado,fora_dominio,massive
+é um dia chuvoso e tempestuoso,fora_dominio,massive
+abrir facebook messenger,fora_dominio,massive
+ver instagram,fora_dominio,massive
+quais são os destaques de hoje do facebook,fora_dominio,massive
+algo novo no snapchat,fora_dominio,massive
+diz-me qual é o melhor jogador de basquetebol desta semana,fora_dominio,massive
+como está o twitter,fora_dominio,massive
+postar no facebook,fora_dominio,massive
+em que ações tive prejuízos,fora_dominio,massive
+carlos está bem,fora_dominio,massive
+qual a cotação da apple,fora_dominio,massive
+qual é o preço atual da sonae,fora_dominio,massive
+nome da empresa na bolsa,fora_dominio,massive
+quero saber as ações da amazon,fora_dominio,massive
+preço atual do google por favor,fora_dominio,massive
+onde vive brad pitt,fora_dominio,massive
+qual a idade de margarida carpinteiro,fora_dominio,massive
+quem foi amália rodrigues,fora_dominio,massive
+fornecer referências válidas com informação para ajudar as pessoas a compreender o pensamento crítico e a dar crédito onde o crédito é devido em vez de perpetuar notícias falsas e factos alternativos,fora_dominio,massive
+qual foi o último filme que josé fidalgo estrelou,fora_dominio,massive
+qual é o rio mais longo da espanha,fora_dominio,massive
+o jogar de futebol com a melhor classificação de sempre,fora_dominio,massive
+quanto mede o pepe,fora_dominio,massive
+qual o maior rio na alemanha,fora_dominio,massive
+que venceu as eleições presidenciais este ano,fora_dominio,massive
+buscar detalhes sobre o presidente barack obama,fora_dominio,massive
+olá o que é um livro,fora_dominio,massive
+o que é infinidade,fora_dominio,massive
+o que são sapatos converse,fora_dominio,massive
+define a palavra romance,fora_dominio,massive
+descreva cobertor,fora_dominio,massive
+que significa estetoscópio,fora_dominio,massive
+o que é jogo de computador,fora_dominio,massive
+por favor define a palavra hipocrisia,fora_dominio,massive
+o que é imigrante,fora_dominio,massive
+como se parece a torre eiffel,fora_dominio,massive
+o que significa a palavra laranja,fora_dominio,massive
+gostaria de saber a descrição de um carro,fora_dominio,massive
+qual é a taxa de câmbio entre a libra e o dólar americano,fora_dominio,massive
+qual é a taxa de câmbio do euro e do dólar,fora_dominio,massive
+qual é a taxa de câmbio entre a libra esterlina e o dólar dos e. u. a.,fora_dominio,massive
+quanto é o euro em relação ao dólar canadiano,fora_dominio,massive
+quantos pesos posso receber por um dólar neste momento,fora_dominio,massive
+quantos ienes rende um dólar americano hoje,fora_dominio,massive
+um dólar equivale a quantas rúpias indianas,fora_dominio,massive
+quanto é um dólar em libras,fora_dominio,massive
+quero ouvir os hits de hoje,fora_dominio,massive
+põe a estação f. m. que passa músicas pop por favor,fora_dominio,massive
+sintoniza na noventa ponto seis f. m.,fora_dominio,massive
+liga na rádio comercial por favor,fora_dominio,massive
+quero o programa café da manhã da rádio na cozinha,fora_dominio,massive
+quero ouvir mega f. m. na sala de estar,fora_dominio,massive
+por favor muda a estação para a antena dois,fora_dominio,massive
+preciso de definir um alarme quantos alarmes tenho definidos,fora_dominio,massive
+apagar o alarme que eu defini,fora_dominio,massive
+depois toca em ok,fora_dominio,massive
+toca música da playlist,fora_dominio,massive
+encontra música jazz na minha playlist,fora_dominio,massive
+toca a minha canção favorita do ano passado,fora_dominio,massive
+tocar álbum de treino,fora_dominio,massive
+joga futebol comigo,fora_dominio,massive
+vamos jogar poker juntos,fora_dominio,massive
+joga comigo o jogo do galo,fora_dominio,massive
+que tal um jogo de xadrez,fora_dominio,massive
+por favor reproduza um resumo de pontos importantes,fora_dominio,massive
+vamos lançar o dado,fora_dominio,massive
+toque o milagre da manhã no livro audível,fora_dominio,massive
+voltar a ensaio sobre a cegueira,fora_dominio,massive
+começa lusíadas onde eu deixei,fora_dominio,massive
+contar-me algumas notícias de negócios,fora_dominio,massive
+iniciar notícias da c. n. n.,fora_dominio,massive
+quais são os tópicos mais populares no mundo,fora_dominio,massive
+qual a última notícia internacional,fora_dominio,massive
+quais as tendências hoje em tecnologia,fora_dominio,massive
+quais artigos novos estão no r. p. t. hoje,fora_dominio,massive
+remove o alarme para amanhã,fora_dominio,massive
+acorda-me às sete da manhã,fora_dominio,massive
+por favor baixa o volume,fora_dominio,massive
+remover tudo no calendário,fora_dominio,massive
+apagar os meus eventos agendados,fora_dominio,massive
+apagar todos os eventos do meu calendário,fora_dominio,massive
+limpar tudo no meu calendário,fora_dominio,massive
+apagar todo o meu calendário,fora_dominio,massive
+informação da joana,fora_dominio,massive
+como é que eu ligo para a sara,fora_dominio,massive
+alexa fornecer informações sobre o bruno a partir da minha lista de contactos,fora_dominio,massive
+enviar email à família com os detalhes da festa,fora_dominio,massive
+enviar um email para o meu supervisor,fora_dominio,massive
+enviar um email com teste no assunto e sem conteúdo,fora_dominio,massive
+envia um email ao meu tio sobre a metereologia atual,fora_dominio,massive
+preciso enviar um email para susana e mencionar,fora_dominio,massive
+quais são as notícias de última hora sobre a economia,fora_dominio,massive
+quais são as principais notícias do diário de notícias,fora_dominio,massive
+apaga a lista compromissos do bruno,fora_dominio,massive
+tamo junto cara!,chitchat,humano
+valeu demais ein,chitchat,humano
+"arrasou, vlw",chitchat,humano
+"divou muito, obg",chitchat,humano
+"obrigadaaa, ajudou demais",chitchat,humano
+"slc, ajudou demais, valeuu",chitchat,humano
+veleuu diva!,chitchat,humano
+valeu irmão,chitchat,humano
+arrasou demais,chitchat,humano
+mt obgg,chitchat,humano
+muito obrigadaa,chitchat,humano
+"muito obgg, arrasou",chitchat,humano
+valeu ein,chitchat,humano
+valeu demais,chitchat,humano
+tmj irmão,chitchat,humano
+"vlww, tmj",chitchat,humano
+"ent ta blz, vlww",chitchat,humano
+"então ta bom, obrigadaa",chitchat,humano
+"humm, ta bom",chitchat,humano
+"ta bom, obrigada",chitchat,humano
+"beleza, obrigado",chitchat,humano
+"blzz, valeu",chitchat,humano
+"mt bom rui, obg",chitchat,humano
+obgg dms ruii,chitchat,humano
+bom dms rui,chitchat,humano
+"arrasou rui, obg",chitchat,humano
+firmeza irmão,chitchat,humano
+"firmeza demais, valeu",chitchat,humano
+"então tabom, firmeza",chitchat,humano
+obrigadão,chitchat,humano
+obrigadao pela ajuda,chitchat,humano
+obrigadao pelas respostas,chitchat,humano
+obrigadao irmao,chitchat,humano
+entao ta joia,chitchat,humano
+joia,chitchat,humano
+"ta joia ent, vlw",chitchat,humano
+joia demais,chitchat,humano
+ta joia,chitchat,humano
+show,chitchat,humano
+show de bola cara,chitchat,humano
+show demais rui,chitchat,humano
+"show rui, obg",chitchat,humano
+valeu mesmo rui,chitchat,humano
+vlww msm cara,chitchat,humano
+vlww dms rui,chitchat,humano
+"está ótimo, muito obrigada!",chitchat,humano
+obrigada pelas respostas!,chitchat,humano
+obrigado pela ajuda,chitchat,humano
+obrigada por tirar essas duvidas,chitchat,humano
+"muito bom, obrigada",chitchat,humano
+"está ótimo, gratidão",chitchat,humano
+gratidão pelas respostas,chitchat,humano
+muito obrigada mesmo,chitchat,humano
+te agradeço pela ajuda,chitchat,humano
+grata por suas respostas,chitchat,humano
+"então ta bom, grato por suas respostas",chitchat,humano
+grato por sua resposta rui,chitchat,humano
+gratidao por suas respostas rui,chitchat,humano
+gratidao rui,chitchat,humano
+grata,chitchat,humano
+"oieee, como vc ta?",chitchat,humano
+noitee,chitchat,humano
+"diaa, td certo?",chitchat,humano
+"olaa, tudo bem?",chitchat,humano
+tudo certo irmao?,chitchat,humano
+oiii rui td certo?,chitchat,humano
+oi rui,chitchat,humano
+"ola rui, tudo bom?",chitchat,humano
+bom demais?,chitchat,humano
+bom dia rui,chitchat,humano
+boa noite cara,chitchat,humano
+boa tarde rui,chitchat,humano
+bom diaa rui,chitchat,humano
+boa tardee,chitchat,humano
+oiii ruiii,chitchat,humano
+olaa rui,chitchat,humano
+"opa,blz?",chitchat,humano
+opa!,chitchat,humano
+fala aí,chitchat,humano
+salve,chitchat,humano
+eae rui,chitchat,humano
+falaa rui,chitchat,humano
+"Falaa camapeao, beleza?",chitchat,humano
+"Prazer rui, tudo bom?",chitchat,humano
+Você ta bem cara?,chitchat,humano
+Oii bom demais?,chitchat,humano
+"eai cara, ta bem aí?",chitchat,humano
+eae meu mano?,chitchat,humano
+"rui, ce ta bem?",chitchat,humano
+Consigo comer no mandacari todo dia?,fora_dominio,humano
+Consigo comer na cantina das quadras todo dia?,fora_dominio,humano
+como preenche a ficha pra pedir o livro emprestado?,fora_dominio,humano
+como preenche a ficha pra pedir o registro do estágio?,fora_dominio,humano
+Quanto é o cone do moço do mercado escola?,fora_dominio,humano
+Quanto é o cone do moço da cantina?,fora_dominio,humano
+tem lugar pra comer churros dentro das quadras?,fora_dominio,humano
+tem lugar pra comer fast food dentro da FAMEZ?,fora_dominio,humano
+na uems tem LEAP?,fora_dominio,humano
+na uems tem mercado escola?,fora_dominio,humano
+O HU (Hospital universitário) funciona sempre?,fora_dominio,humano
+A UFMS ( Universidade Federal de Mato Grosso do Sul) funciona 24 horas?,fora_dominio,humano
+Que horário fecham os portões da biblioteca?,fora_dominio,humano
+Que horário fecham os portões das quadras?,fora_dominio,humano
+como eu peço o subsidio de auxilio moradia?,fora_dominio,humano
+como eu peço o subsidio do vale gás?,fora_dominio,humano
+Quem tem cadunico tem direito a isenção do coral?,fora_dominio,humano
+A FACOM funciona em horário normal aos finais de semana?,fora_dominio,humano
+O LEAP funciona em horário normal aos finais de semana?,fora_dominio,humano
+A coordenação de curso funciona em horário normal aos finais de semana?,fora_dominio,humano
+A secretaria funciona em horário normal aos finais de semana?,fora_dominio,humano

@@ -1,4 +1,4 @@
 # Links da entrega - preencha depois de publicar o vídeo.
 # O vídeo deve ser público ou "não listado" (YouTube) / aberto a quem tem o link (Drive).
-video: 
-repositorio: 
+video: https://drive.google.com/drive/folders/1DPGMDLeQsJ2ZGjpo8QVwa_KE7J4jbPoH?usp=sharing
+repositorio: https://github.com/isa-nkn/Coerporacao
